@@ -1,0 +1,124 @@
+TITLE: Telepathic Data Protection Act
+DOCUMENT_TYPE: statute
+VERSION: 1.0
+ENACTED: Cycle 3022
+AUTHORITY: The Harmonic Assembly of Zephyria
+
+---
+
+SECTION 1: PURPOSE AND SCOPE
+
+Article 1.1: Purpose
+This Act governs the lawful interaction with cognitive signals, including extraction, resonance mapping, and memory echo reconstruction.
+
+Article 1.2: Scope
+This Act applies to all entities operating within Zephyrian jurisdiction, including distributed consciousness entities and multi-body intelligences.
+
+Article 1.3: Constitutional Basis
+This Act implements the protections established under Article 2.2 of the Constitution of Zephyria.
+
+---
+
+SECTION 2: DEFINITIONS
+
+Article 2.1: Cognitive Signal
+Any measurable or perceivable output of a sentient mind, including thoughts, impressions, and residual memory echoes.
+
+Article 2.2: Memory Echo
+A residual cognitive imprint that persists after a thought has occurred, including involuntary projections.
+
+Article 2.3: Resonance Mapping
+The process of aligning one cognitive field with another to interpret or extract meaning.
+
+Article 2.4: Layered Consent
+Consent granted at multiple cognitive depths, including surface, reflective, and core layers.
+
+---
+
+SECTION 3: LAWFUL ACCESS
+
+Article 3.1: Requirement of Layered Consent
+Access to cognitive signals requires consent at the appropriate cognitive layer relevant to the depth of access.
+
+Article 3.2: Invalid Consent
+Consent is invalid if obtained during:
+(a) cognitive instability;
+(b) externally induced emotional override;
+(c) temporal desynchronization.
+
+Article 3.3: Passive Reception
+Unintentional reception of stray cognitive signals is not unlawful, provided no recording or analysis occurs.
+
+---
+
+SECTION 4: RESTRICTED PRACTICES
+
+Article 4.1: Deep Memory Extraction
+Extraction of core-layer memories is prohibited unless authorized by a Tri-Mind Warrant.
+
+Article 4.2: Collective Interrogation
+Simultaneous resonance mapping of multiple individuals is prohibited except in declared interstellar emergencies.
+
+Article 4.3: Predictive Cognition Profiling
+The use of cognitive data to predict future behavior is restricted and requires explicit judicial authorization.
+
+---
+
+SECTION 5: RIGHTS OF SENTIENT BEINGS
+
+Article 5.1: Right to Cognitive Silence
+Individuals may shield their thoughts from all external access without justification.
+
+Article 5.2: Right to Cognitive Audit
+Individuals may request a record of all entities that have accessed their cognitive signals.
+
+Article 5.3: Right to Memory Correction
+Individuals may request correction or deletion of stored memory echoes where distortion is demonstrated.
+
+---
+
+SECTION 6: OBLIGATIONS OF OPERATORS
+
+Article 6.1: Signal Integrity
+Entities handling cognitive data must preserve the original structure of the signal.
+
+Article 6.2: Distortion Liability
+Any alteration of cognitive signals that results in harm creates strict liability.
+
+Article 6.3: Transparency Logs
+All cognitive interactions must be recorded in an immutable log accessible to oversight bodies.
+
+---
+
+SECTION 7: OVERSIGHT AND ENFORCEMENT
+
+Article 7.1: Cognitive Integrity Council
+This Act is enforced by the Cognitive Integrity Council.
+
+Article 7.2: Tri-Mind Warrants
+Authorization for intrusive access requires approval from three independent judicial minds.
+
+Article 7.3: Penalties
+Violations may result in cognitive access bans, operational dissolution, or identity suspension.
+
+---
+
+SECTION 8: TEMPORAL PROVISIONS
+
+Article 8.1: Retroactive Memory Use
+Recovered memory echoes from past cycles may not be used as evidence unless verified for temporal distortion.
+
+Article 8.2: Future-State Projections
+Predicted cognitive states may not be treated as factual evidence.
+
+---
+
+SECTION 9: FINAL PROVISIONS
+
+Article 9.1: Relationship to Other Laws
+This Act prevails in matters involving cognitive signals.
+
+Article 9.2: Effective Cycle
+This Act takes effect immediately upon enactment.
+
+---

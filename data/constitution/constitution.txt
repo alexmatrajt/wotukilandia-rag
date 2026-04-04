@@ -1,0 +1,133 @@
+TITLE: Constitution of Zephyria
+VERSION: 1.0
+ENACTED: Cycle 3021
+AUTHORITY: Founding Council of Zephyria
+
+---
+
+SECTION 1: FUNDAMENTAL PRINCIPLES
+
+Article 1.1: Sovereignty
+Zephyria is a sovereign interstellar nation governed by the rule of law.
+
+Article 1.2: Supremacy of Constitution
+This Constitution is the highest legal authority. All laws and regulations must comply with it.
+
+Article 1.3: Rule of Law
+All entities, including individuals, organizations, and governing bodies, are subject to the law.
+
+---
+
+SECTION 2: RIGHTS AND LIBERTIES
+
+Article 2.1: Right to Existence
+All sentient beings within Zephyria have the right to exist without unlawful termination or harm.
+
+Article 2.2: Cognitive and Telepathic Privacy
+No entity may access, alter, or transmit another being’s thoughts without explicit consent or lawful authorization.
+
+Article 2.3: Equality Before Law
+All beings are equal before the law regardless of species, origin planet, or biological composition.
+
+Article 2.4: Freedom of Movement
+All lawful residents may travel freely within Zephyrian-controlled space.
+
+Article 2.5: Right to Due Process
+No entity shall be deprived of rights without fair legal procedures.
+
+---
+
+SECTION 3: GOVERNMENT STRUCTURE
+
+Article 3.1: Branches of Government
+The government consists of three branches: Legislative, Executive, and Judicial.
+
+Article 3.2: Separation of Powers
+Each branch operates independently and may not exercise the core functions of another branch.
+
+---
+
+SECTION 4: LEGISLATIVE BRANCH
+
+Article 4.1: Assembly of Zephyria
+Legislative power is vested in the Assembly of Zephyria.
+
+Article 4.2: Lawmaking Authority
+The Assembly enacts statutes, approves amendments, and oversees regulatory bodies.
+
+Article 4.3: Passage of Laws
+A law requires majority approval and formal ratification.
+
+---
+
+SECTION 5: EXECUTIVE BRANCH
+
+Article 5.1: High Executor
+The Executive authority is led by the High Executor.
+
+Article 5.2: Enforcement of Laws
+The Executive ensures laws and regulations are implemented and enforced.
+
+Article 5.3: Regulatory Oversight
+The Executive supervises ministries and agencies.
+
+---
+
+SECTION 6: JUDICIAL BRANCH
+
+Article 6.1: Supreme Court of Zephyria
+Judicial authority is vested in the Supreme Court and subordinate courts.
+
+Article 6.2: Judicial Review
+Courts may invalidate laws or actions that conflict with this Constitution.
+
+Article 6.3: Interpretation of Law
+The Judiciary has final authority in interpreting laws.
+
+---
+
+SECTION 7: INTERSTELLAR JURISDICTION
+
+Article 7.1: Territorial Scope
+Zephyria’s laws apply within its planetary systems and designated interstellar zones.
+
+Article 7.2: Non-Native Entities
+Non-native species are subject to Zephyrian law while within its jurisdiction.
+
+---
+
+SECTION 8: AMENDMENTS
+
+Article 8.1: Amendment Process
+This Constitution may be amended by a two-thirds majority of the Assembly.
+
+Article 8.2: Limitations
+No amendment may remove fundamental rights under Section 2.
+
+---
+
+SECTION 9: EMERGENCY POWERS
+
+Article 9.1: Declaration of Emergency
+The Executive may declare a state of emergency under extreme circumstances.
+
+Article 9.2: Temporary Measures
+Emergency powers must be limited in scope and duration.
+
+Article 9.3: Judicial Oversight
+All emergency actions are subject to judicial review.
+
+---
+
+SECTION 10: DEFINITIONS
+
+Article 10.1: Sentient Being
+An entity capable of independent thought, reasoning, and decision-making.
+
+Article 10.2: Telepathic Access
+The act of reading, influencing, or transmitting cognitive processes.
+
+Article 10.3: Lawful Authorization
+Permission granted under statutes or judicial order.
+
+---

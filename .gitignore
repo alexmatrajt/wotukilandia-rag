@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Secrets
+.streamlit/secrets.toml
+.env
+
+# Optional (decide later)
+# chroma_db/

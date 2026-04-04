@@ -1,0 +1,102 @@
+TITLE: Cooperative Activity Compliance Guidelines
+DOCUMENT_TYPE: regulation
+VERSION: 1.0
+ENACTED: Cycle 3023
+ISSUING_BODY: Ministry of Collective Activity
+
+---
+
+SECTION 1: AUTHORITY AND PURPOSE
+
+Article 1.1: Authority
+These Guidelines are issued pursuant to the Interstellar Labor and Cooperative Activity Act, Version 2.0.
+
+Article 1.2: Purpose
+These Guidelines define compliance expectations for cooperative labor structures and contributor protections.
+
+---
+
+SECTION 2: CONTRIBUTION TRACKING
+
+Article 2.1: Contribution Records
+All cooperative activity must maintain records of contributions.
+
+Article 2.2: Cognitive Contribution
+Cognitive labor must be recorded in a manner that reflects intensity and duration.
+
+Article 2.3: Attribution Disputes
+Disputes regarding contribution must rely on recorded data unless overridden by mutual agreement.
+
+---
+
+SECTION 3: CONSENSUS SYSTEMS
+
+Article 3.1: Declared Consensus Model
+Each cooperative group must declare its consensus threshold.
+
+Article 3.2: Dynamic Adjustment
+Consensus thresholds may change if all active contributors agree.
+
+Article 3.3: Silent Contributors
+Entities that do not actively participate in decision-making shall not be assumed to consent.
+
+---
+
+SECTION 4: EXIT PROTOCOLS
+
+Article 4.1: Exit Notice
+Contributors must provide notice unless immediate exit is justified by harm or instability.
+
+Article 4.2: Transitional Obligations
+Exiting contributors must transfer essential knowledge required for continuity.
+
+Article 4.3: Forced Retention
+No entity may be prevented from exiting a cooperative structure.
+
+---
+
+SECTION 5: VALUE DISTRIBUTION
+
+Article 5.1: Distribution Models
+Cooperatives must define how shared output is distributed.
+
+Article 5.2: Cognitive Weighting
+Cognitive labor must not be undervalued relative to physical labor.
+
+Article 5.3: Delayed Distribution
+Delayed compensation must be justified and documented.
+
+---
+
+SECTION 6: DISPUTE HANDLING
+
+Article 6.1: Harmonic Mediation Requirement
+All disputes must first undergo Harmonic Mediation.
+
+Article 6.2: Escalation Criteria
+Escalation is permitted only after mediation fails or is deemed ineffective.
+
+Article 6.3: Evidence Standards
+Evidence derived from cognitive signals must comply with the Telepathic Data Protection Act and related regulations.
+
+---
+
+SECTION 7: OVERSIGHT
+
+Article 7.1: Compliance Reviews
+The Ministry of Collective Activity may conduct periodic compliance reviews.
+
+Article 7.2: Adaptive Interpretation
+These Guidelines may be updated to reflect evolving cooperative practices.
+
+---
+
+SECTION 8: FINAL PROVISIONS
+
+Article 8.1: Non-Binding Nature
+These Guidelines are binding unless explicitly designated as advisory in specific provisions.
+
+Article 8.2: Effective Cycle
+These Guidelines take effect upon issuance.
+
+---

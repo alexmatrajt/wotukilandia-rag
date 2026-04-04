@@ -1,0 +1,95 @@
+DOCUMENT_TITLE: Internal Legal Memorandum
+DOCUMENT_TYPE: legal_memo
+AUTHOR: Analyst Unit K-72
+DATE: Cycle 3025
+SUBJECT: Use of Layered Consent and Memory Echo Evidence in Cognitive Investigations
+
+---
+
+SECTION: BACKGROUND
+
+This memorandum analyzes whether a cognitive investigation involving partial layered consent and degraded memory echoes can support enforcement action under Zephyrian law.
+
+The inquiry arises from a scenario in which a coordinating entity obtained surface-layer consent from multiple participants and subsequently conducted deeper resonance mapping without obtaining additional authorization.
+
+The investigation also relied on residual memory echoes that exhibited moderate degradation and potential temporal distortion.
+
+---
+
+SECTION: QUESTIONS PRESENTED
+
+1. Whether surface-layer consent permits access to deeper cognitive layers.
+2. Whether degraded memory echoes may be used as reliable evidence.
+3. What level of authorization is required for deep memory extraction.
+
+---
+
+SECTION: SHORT ANSWER
+
+Surface-layer consent does not authorize deeper cognitive access.
+
+Degraded memory echoes are insufficient as primary evidence unless verified for reliability.
+
+Deep memory extraction requires either explicit core-layer consent or a valid Tri-Mind Warrant.
+
+---
+
+SECTION: ANALYSIS
+
+Subsection A: Layered Consent Requirements
+
+The Telepathic Data Protection Act (Version 2.0), Article 3.1, requires that consent correspond to the depth of cognitive access.
+
+In Zephyria v. Lume Collective (Cycle 3024), the Supreme Court clarified that layered consent operates as distinct authorization levels rather than a generalized permission structure.
+
+Accordingly, consent limited to surface signals cannot justify access to core-layer memories.
+
+Additionally, the Cognitive Signal Handling Regulations, Article 3.1, reinforce that consent must match signal classification levels.
+
+Subsection B: Deep Memory Extraction
+
+Article 4.1 of the Telepathic Data Protection Act prohibits deep memory extraction absent a Tri-Mind Warrant.
+
+The absence of such authorization renders any extracted core-layer data unlawfully obtained.
+
+Even where investigative urgency exists, the statutory framework does not permit substitution of partial consent for formal authorization.
+
+Subsection C: Use of Memory Echoes
+
+Article 8.1 of the Telepathic Data Protection Act restricts the use of retroactive memory echoes unless verified for temporal distortion.
+
+In In re Xel’thar Incident Review (Cycle 3025), the Supreme Court held that degraded memory echoes lacking verification cannot serve as primary evidence.
+
+Further, the Cognitive Signal Handling Regulations, Article 4.2, require that residual echoes be assigned a degradation index.
+
+Where such indexing is absent or indicates unreliability, evidentiary use is significantly limited.
+
+Subsection D: Risk Considerations
+
+Reliance on improperly obtained cognitive data may result in:
+(a) exclusion of evidence;
+(b) enforcement invalidation;
+(c) sanctions by the Cognitive Integrity Council.
+
+---
+
+SECTION: CONCLUSION
+
+The legal framework governing cognitive investigations in Zephyria imposes strict alignment between consent and depth of access.
+
+Surface-level consent is insufficient to justify deeper cognitive intrusion.
+
+Additionally, degraded memory echoes cannot be relied upon without verification of integrity.
+
+Any enforcement action based on such evidence is likely to face significant legal challenge and potential invalidation.
+
+---
+
+SECTION: RECOMMENDATIONS
+
+1. Obtain explicit layered consent corresponding to intended depth of access.
+2. Secure a Tri-Mind Warrant for any core-layer memory extraction.
+3. Verify all memory echoes for degradation and temporal distortion prior to use.
+4. Maintain full compliance logs to support evidentiary integrity.
+
+---

@@ -1,0 +1,46 @@
+CASE_TITLE: Zephyria v. Lume Collective
+COURT: Supreme Court of Zephyria
+CYCLE: 3024
+DOCUMENT_TYPE: case_law
+
+---
+
+SECTION: FACTS
+
+The Lume Collective, a distributed intelligence entity, conducted resonance mapping on multiple individuals to extract core-layer memories related to a security breach.
+
+The Collective argued that partial consent had been obtained from participants during a cooperative investigation process.
+
+Several individuals later claimed that their consent was limited to surface-level cognitive access and did not extend to deep memory extraction.
+
+---
+
+SECTION: ISSUE
+
+Whether layered consent permitting surface-level access can justify extraction of core-layer memories under the Telepathic Data Protection Act.
+
+---
+
+SECTION: HOLDING
+
+Layered consent must explicitly match the depth of cognitive access. Surface-level consent does not authorize core-layer memory extraction.
+
+---
+
+SECTION: REASONING
+
+The Court held that Article 3.1 of the Telepathic Data Protection Act requires consent at the appropriate cognitive layer.
+
+The Court further interpreted Article 4.1 of the Act, stating that deep memory extraction requires explicit authorization or a Tri-Mind Warrant.
+
+The Collective’s reliance on generalized or inferred consent was insufficient.
+
+The Court emphasized that layered consent is not hierarchical permission but distinct authorization levels.
+
+---
+
+SECTION: PRECEDENTIAL EFFECT
+
+This decision establishes that consent must be explicitly tied to the depth of cognitive access and cannot be inferred across layers.
+
+---

@@ -1,0 +1,110 @@
+TITLE: Cognitive Signal Handling Regulations
+DOCUMENT_TYPE: regulation
+VERSION: 1.0
+ENACTED: Cycle 3023
+ISSUING_BODY: Cognitive Integrity Council
+
+---
+
+SECTION 1: AUTHORITY AND PURPOSE
+
+Article 1.1: Authority
+These Regulations are issued pursuant to the Telepathic Data Protection Act, Version 2.0.
+
+Article 1.2: Purpose
+These Regulations establish operational standards for the handling, storage, and interpretation of cognitive signals.
+
+---
+
+SECTION 2: SIGNAL CLASSIFICATION
+
+Article 2.1: Signal Categories
+Cognitive signals shall be classified into the following categories:
+(a) Surface Signals;
+(b) Reflective Signals;
+(c) Core Signals;
+(d) Residual Echoes.
+
+Article 2.2: Classification Requirement
+All collected signals must be classified prior to processing.
+
+Article 2.3: Misclassification
+Improper classification resulting in unauthorized access shall be treated as a violation of Article 3.1 of the Telepathic Data Protection Act.
+
+---
+
+SECTION 3: CONSENT VERIFICATION PROTOCOLS
+
+Article 3.1: Layer Matching
+Consent must correspond to the classification level of the signal accessed.
+
+Article 3.2: Consent Stability
+Consent must be verified for temporal stability and must not degrade during processing.
+
+Article 3.3: Fragmented Consent
+Partial or fragmented consent is insufficient for accessing composite cognitive signals.
+
+---
+
+SECTION 4: SIGNAL STORAGE
+
+Article 4.1: Storage Integrity
+Cognitive signals must be stored in their original structure without compression that alters meaning.
+
+Article 4.2: Echo Degradation
+Residual echoes must be labeled with a degradation index indicating reliability.
+
+Article 4.3: Storage Duration
+Core signals may not be stored beyond 3 standard cycles without renewed authorization.
+
+---
+
+SECTION 5: ACCESS LOGGING
+
+Article 5.1: Immutable Logs
+All access events must be recorded in an immutable log system.
+
+Article 5.2: Required Fields
+Logs must include:
+(a) identity of accessing entity;
+(b) signal classification;
+(c) consent layer;
+(d) timestamp.
+
+Article 5.3: Audit Requests
+Logs must be accessible to individuals exercising their right to cognitive audit under Article 5.2 of the Telepathic Data Protection Act.
+
+---
+
+SECTION 6: PROHIBITED PRACTICES
+
+Article 6.1: Signal Reconstruction
+Reconstruction of incomplete cognitive signals into assumed full memories is prohibited.
+
+Article 6.2: Cross-Signal Blending
+Combining signals from multiple individuals without explicit layered consent is prohibited.
+
+Article 6.3: Silent Analysis
+Analyzing cognitive signals without recording access in logs is prohibited.
+
+---
+
+SECTION 7: ENFORCEMENT
+
+Article 7.1: Monitoring
+The Cognitive Integrity Council shall conduct periodic audits.
+
+Article 7.2: Violations
+Violations may trigger suspension of cognitive processing privileges.
+
+---
+
+SECTION 8: FINAL PROVISIONS
+
+Article 8.1: Interpretation
+These Regulations shall be interpreted consistently with the Telepathic Data Protection Act.
+
+Article 8.2: Effective Cycle
+These Regulations take effect immediately.
+
+---

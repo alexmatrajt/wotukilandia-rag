@@ -1,0 +1,46 @@
+CASE_TITLE: Arin Vale v. Synapse Fabricators
+COURT: Zephyrian Labor Tribunal (Appellate Division)
+CYCLE: 3023
+DOCUMENT_TYPE: case_law
+
+---
+
+SECTION: FACTS
+
+Arin Vale contributed cognitive design work to a cooperative project managed by Synapse Fabricators.
+
+The cooperative used a distribution model that heavily favored physical contributions over cognitive input.
+
+Vale argued that their cognitive labor, which defined the core architecture of the project, was undervalued.
+
+---
+
+SECTION: ISSUE
+
+Whether a cooperative may assign disproportionately lower value to cognitive labor compared to physical labor.
+
+---
+
+SECTION: HOLDING
+
+Cognitive labor must be valued equitably and cannot be systematically undervalued.
+
+---
+
+SECTION: REASONING
+
+The Tribunal relied on Article 5.2 of the Cooperative Activity Compliance Guidelines, which prohibits undervaluation of cognitive labor.
+
+It further referenced Article 3.1 of the Interstellar Labor and Cooperative Activity Act, requiring fair value exchange.
+
+The Tribunal rejected the argument that physical outputs inherently justify higher valuation.
+
+The decision emphasized that contribution impact, not form, determines value.
+
+---
+
+SECTION: PRECEDENTIAL EFFECT
+
+This decision requires cooperatives to justify valuation models and ensures cognitive labor is treated on equal footing with physical labor.
+
+---

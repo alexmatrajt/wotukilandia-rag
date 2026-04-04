@@ -1,0 +1,70 @@
+- keep metadata for each chunk, ex:
+{
+  "document_title": "Constitution of Zephyria",
+  "document_type": "constitution",
+  "section": "RIGHTS AND LIBERTIES",
+  "article": "2.2",
+  "heading": "Cognitive and Telepathic Privacy",
+  "version": "1.0",
+  "enacted": "Cycle 3021"
+}
+
+{
+  "document_title": "...",
+  "document_type": "constitution | statute | regulation | case | memo",
+  "section": "...",
+  "article": "...",
+  "heading": "...",
+  "version": "...",
+  "date": "...",
+}
+
+
+data folder structure :
+data/
+  constitution/
+  codes/
+  statutes/
+  regulations/
+  cases/
+  memos/
+  case_files/
+  evidence/
+  glossary/
+
+Start with just:
+Constitution
+2 statutes
+2 regulations
+3 court cases
+1 legal memo
+1 client case file
+
+
+--- File structure ---
+app/config.py
+app/load_documents.py
+app/chunk_documents.py
+app/build_index.py
+app/query_engine.py
+scripts/ingest.py
+ui/streamlit_app.py
+requirements.txt
+
+Your current structure is good. I would keep it exactly as-is for now and add only these later:
+
+app/prompts.py
+scripts/test_queries.py
+
+Those are the most useful next additions.
+
+The best next step is to start filling these files in, in this order:
+
+requirements.txt
+app/config.py
+app/load_documents.py
+app/chunk_documents.py
+app/build_index.py
+scripts/ingest.py
+app/query_engine.py
+ui/streamlit_app.py

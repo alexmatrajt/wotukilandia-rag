@@ -1,0 +1,3702 @@
+CHUNK 1
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: CLIENT PROFILE
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: CLIENT PROFILE
+Name: Orin Tal
+Species: Zephyrian Native
+Cognitive Profile: Single-thread consciousness
+Occupation: Systems Architect
+
+---
+================================================================================
+
+CHUNK 2
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: DEFENDANT PROFILE
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: DEFENDANT PROFILE
+Entity Name: Synaptech Dynamics
+Entity Type: Cognitive Interface Provider
+Structure: Multi-node distributed corporation
+
+---
+================================================================================
+
+CHUNK 3
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: CASE SUMMARY
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: CASE SUMMARY
+The client alleges unauthorized deep cognitive access conducted by Synaptech Dynamics during a diagnostic session.
+
+The client asserts that only surface-level consent was granted for system calibration purposes.
+
+Synaptech Dynamics claims that extended access was necessary to stabilize a detected cognitive anomaly.
+
+---
+================================================================================
+
+CHUNK 4
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: FACT TIMELINE
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: FACT TIMELINE
+Cycle 3025.04.12
+Client initiates diagnostic session with Synaptech Dynamics.
+
+Cycle 3025.04.12
+Client signs a standard consent interface labeled “Cognitive Calibration Access.”
+
+Cycle 3025.04.12
+System detects irregular cognitive signal patterns described as “unstable resonance loops.”
+
+Cycle 3025.04.12
+Synaptech performs extended resonance mapping beyond initial parameters.
+
+Cycle 3025.04.13
+Client reports memory gaps and altered recall of recent events.
+
+Cycle 3025.04.15
+Client requests access logs and receives partial records.
+
+---
+================================================================================
+
+CHUNK 5
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: CLIENT CLAIMS
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: CLIENT CLAIMS
+1. Unauthorized access to core-layer memories.
+2. Lack of explicit layered consent for deep cognitive extraction.
+3. Improper handling of cognitive data resulting in memory distortion.
+
+---
+================================================================================
+
+CHUNK 6
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: DEFENDANT POSITION
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: DEFENDANT POSITION
+Synaptech Dynamics asserts:
+
+1. The client’s consent included implied authorization for necessary stabilization procedures.
+2. The detected anomaly posed immediate risk, justifying extended access.
+3. All actions were conducted within acceptable operational standards.
+
+---
+================================================================================
+
+CHUNK 7
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: EVIDENCE SUMMARY
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: EVIDENCE SUMMARY
+Item 1: Consent Interface Record
+Description: Digital record showing user agreement to “Cognitive Calibration Access.”
+Note: No explicit reference to layered consent levels.
+
+Item 2: Cognitive Access Logs
+Description: Partial logs indicating access to “deep signal regions.”
+Issue: Logs appear incomplete; timestamps show gaps.
+
+Item 3: Residual Memory Echo Scan
+Description: Post-event scan showing fragmented memory echoes.
+Issue: Degradation index not provided.
+
+Item 4: Internal System Report (Synaptech)
+Description: Report referencing “emergency stabilization protocol.”
+Issue: Protocol not clearly defined in provided materials.
+
+---
+================================================================================
+
+CHUNK 8
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: KEY LEGAL QUESTIONS
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: KEY LEGAL QUESTIONS
+1. Whether “Cognitive Calibration Access” constitutes valid layered consent.
+2. Whether an alleged anomaly justifies bypassing standard consent requirements.
+3. Whether incomplete logs violate regulatory requirements.
+4. Whether degraded memory echoes can support or refute claims of harm.
+
+---
+================================================================================
+
+CHUNK 9
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: INCONSISTENCIES AND GAPS
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: INCONSISTENCIES AND GAPS
+* Consent language does not specify depth of access.
+* Access logs are incomplete and lack required detail fields.
+* No independent verification of the claimed cognitive anomaly.
+* Memory echo evidence lacks degradation indexing.
+
+---
+================================================================================
+
+CHUNK 10
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: PRELIMINARY LEGAL ANALYSIS (INTERNAL)
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: PRELIMINARY LEGAL ANALYSIS (INTERNAL)
+Surface-level consent appears insufficient for deep cognitive access under existing statutory interpretation.
+
+The absence of a Tri-Mind Warrant raises significant compliance concerns.
+
+Incomplete logging may constitute a violation of Cognitive Signal Handling Regulations.
+
+Reliance on degraded memory echoes may limit evidentiary reliability.
+
+---
+================================================================================
+
+CHUNK 11
+METADATA:
+  source_file: orin_tal_v_synaptech_dynamics_case_file.txt
+  document_title: Client Case File – Orin Tal v. Synaptech Dynamics
+  document_type: case_file
+  folder: case_files
+  file_path: data/case_files/orin_tal_v_synaptech_dynamics_case_file.txt
+  section: REQUESTED OUTCOME
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: 
+
+TEXT:
+DOCUMENT_TITLE: Client Case File – Orin Tal v. Synaptech Dynamics
+SECTION: REQUESTED OUTCOME
+The client seeks:
+(a) formal recognition of unauthorized cognitive access;
+(b) remediation of altered memory structures;
+(c) sanctions against Synaptech Dynamics;
+(d) access to complete cognitive interaction logs.
+
+---
+================================================================================
+
+CHUNK 12
+METADATA:
+  source_file: Arin_Vale_v_Synapse_Fabricators.txt
+  document_title: Arin Vale v. Synapse Fabricators
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Arin_Vale_v_Synapse_Fabricators.txt
+  case_title: Arin Vale v. Synapse Fabricators
+  court: Zephyrian Labor Tribunal (Appellate Division)
+  cycle: 3023
+  section: FACTS
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Arin Vale v. Synapse Fabricators
+SECTION: FACTS
+Arin Vale contributed cognitive design work to a cooperative project managed by Synapse Fabricators.
+
+The cooperative used a distribution model that heavily favored physical contributions over cognitive input.
+
+Vale argued that their cognitive labor, which defined the core architecture of the project, was undervalued.
+
+---
+================================================================================
+
+CHUNK 13
+METADATA:
+  source_file: Arin_Vale_v_Synapse_Fabricators.txt
+  document_title: Arin Vale v. Synapse Fabricators
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Arin_Vale_v_Synapse_Fabricators.txt
+  case_title: Arin Vale v. Synapse Fabricators
+  court: Zephyrian Labor Tribunal (Appellate Division)
+  cycle: 3023
+  section: ISSUE
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Arin Vale v. Synapse Fabricators
+SECTION: ISSUE
+Whether a cooperative may assign disproportionately lower value to cognitive labor compared to physical labor.
+
+---
+================================================================================
+
+CHUNK 14
+METADATA:
+  source_file: Arin_Vale_v_Synapse_Fabricators.txt
+  document_title: Arin Vale v. Synapse Fabricators
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Arin_Vale_v_Synapse_Fabricators.txt
+  case_title: Arin Vale v. Synapse Fabricators
+  court: Zephyrian Labor Tribunal (Appellate Division)
+  cycle: 3023
+  section: HOLDING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Arin Vale v. Synapse Fabricators
+SECTION: HOLDING
+Cognitive labor must be valued equitably and cannot be systematically undervalued.
+
+---
+================================================================================
+
+CHUNK 15
+METADATA:
+  source_file: Arin_Vale_v_Synapse_Fabricators.txt
+  document_title: Arin Vale v. Synapse Fabricators
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Arin_Vale_v_Synapse_Fabricators.txt
+  case_title: Arin Vale v. Synapse Fabricators
+  court: Zephyrian Labor Tribunal (Appellate Division)
+  cycle: 3023
+  section: REASONING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Arin Vale v. Synapse Fabricators
+SECTION: REASONING
+The Tribunal relied on Article 5.2 of the Cooperative Activity Compliance Guidelines, which prohibits undervaluation of cognitive labor.
+
+It further referenced Article 3.1 of the Interstellar Labor and Cooperative Activity Act, requiring fair value exchange.
+
+The Tribunal rejected the argument that physical outputs inherently justify higher valuation.
+
+The decision emphasized that contribution impact, not form, determines value.
+
+---
+================================================================================
+
+CHUNK 16
+METADATA:
+  source_file: Arin_Vale_v_Synapse_Fabricators.txt
+  document_title: Arin Vale v. Synapse Fabricators
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Arin_Vale_v_Synapse_Fabricators.txt
+  case_title: Arin Vale v. Synapse Fabricators
+  court: Zephyrian Labor Tribunal (Appellate Division)
+  cycle: 3023
+  section: PRECEDENTIAL EFFECT
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Arin Vale v. Synapse Fabricators
+SECTION: PRECEDENTIAL EFFECT
+This decision requires cooperatives to justify valuation models and ensures cognitive labor is treated on equal footing with physical labor.
+
+---
+================================================================================
+
+CHUNK 17
+METADATA:
+  source_file: In_re_Xel’thar_Incident_Review.txt
+  document_title: In re Xel’thar Incident Review
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/In_re_Xel’thar_Incident_Review.txt
+  case_title: In re Xel’thar Incident Review
+  court: Supreme Court of Zephyria
+  cycle: 3025
+  section: FACTS
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: In re Xel’thar Incident Review
+SECTION: FACTS
+Following an interstellar incident, investigators relied on residual memory echoes collected from witnesses.
+
+The memory echoes showed signs of degradation and temporal distortion.
+
+The reviewing body admitted the echoes as primary evidence in determining liability.
+
+---
+================================================================================
+
+CHUNK 18
+METADATA:
+  source_file: In_re_Xel’thar_Incident_Review.txt
+  document_title: In re Xel’thar Incident Review
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/In_re_Xel’thar_Incident_Review.txt
+  case_title: In re Xel’thar Incident Review
+  court: Supreme Court of Zephyria
+  cycle: 3025
+  section: ISSUE
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: In re Xel’thar Incident Review
+SECTION: ISSUE
+Whether degraded memory echoes may be used as reliable evidence in legal proceedings.
+
+---
+================================================================================
+
+CHUNK 19
+METADATA:
+  source_file: In_re_Xel’thar_Incident_Review.txt
+  document_title: In re Xel’thar Incident Review
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/In_re_Xel’thar_Incident_Review.txt
+  case_title: In re Xel’thar Incident Review
+  court: Supreme Court of Zephyria
+  cycle: 3025
+  section: HOLDING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: In re Xel’thar Incident Review
+SECTION: HOLDING
+Degraded or temporally distorted memory echoes cannot be relied upon as primary evidence without verification.
+
+---
+================================================================================
+
+CHUNK 20
+METADATA:
+  source_file: In_re_Xel’thar_Incident_Review.txt
+  document_title: In re Xel’thar Incident Review
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/In_re_Xel’thar_Incident_Review.txt
+  case_title: In re Xel’thar Incident Review
+  court: Supreme Court of Zephyria
+  cycle: 3025
+  section: REASONING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: In re Xel’thar Incident Review
+SECTION: REASONING
+The Court cited Article 8.1 of the Telepathic Data Protection Act, which restricts the use of retroactive memory echoes unless verified for distortion.
+
+It also referenced Article 4.2 of the Cognitive Signal Handling Regulations, requiring degradation indexing.
+
+The Court found that the absence of reliability verification rendered the evidence insufficient.
+
+The decision emphasized that cognitive evidence must meet higher integrity standards due to its mutable nature.
+
+---
+================================================================================
+
+CHUNK 21
+METADATA:
+  source_file: In_re_Xel’thar_Incident_Review.txt
+  document_title: In re Xel’thar Incident Review
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/In_re_Xel’thar_Incident_Review.txt
+  case_title: In re Xel’thar Incident Review
+  court: Supreme Court of Zephyria
+  cycle: 3025
+  section: PRECEDENTIAL EFFECT
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: In re Xel’thar Incident Review
+SECTION: PRECEDENTIAL EFFECT
+This decision limits the use of memory echoes and requires verification mechanisms before admissibility.
+
+---
+================================================================================
+
+CHUNK 22
+METADATA:
+  source_file: Zephyria_v_Lume_Collective.txt
+  document_title: Zephyria v. Lume Collective
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Zephyria_v_Lume_Collective.txt
+  case_title: Zephyria v. Lume Collective
+  court: Supreme Court of Zephyria
+  cycle: 3024
+  section: FACTS
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Zephyria v. Lume Collective
+SECTION: FACTS
+The Lume Collective, a distributed intelligence entity, conducted resonance mapping on multiple individuals to extract core-layer memories related to a security breach.
+
+The Collective argued that partial consent had been obtained from participants during a cooperative investigation process.
+
+Several individuals later claimed that their consent was limited to surface-level cognitive access and did not extend to deep memory extraction.
+
+---
+================================================================================
+
+CHUNK 23
+METADATA:
+  source_file: Zephyria_v_Lume_Collective.txt
+  document_title: Zephyria v. Lume Collective
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Zephyria_v_Lume_Collective.txt
+  case_title: Zephyria v. Lume Collective
+  court: Supreme Court of Zephyria
+  cycle: 3024
+  section: ISSUE
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Zephyria v. Lume Collective
+SECTION: ISSUE
+Whether layered consent permitting surface-level access can justify extraction of core-layer memories under the Telepathic Data Protection Act.
+
+---
+================================================================================
+
+CHUNK 24
+METADATA:
+  source_file: Zephyria_v_Lume_Collective.txt
+  document_title: Zephyria v. Lume Collective
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Zephyria_v_Lume_Collective.txt
+  case_title: Zephyria v. Lume Collective
+  court: Supreme Court of Zephyria
+  cycle: 3024
+  section: HOLDING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Zephyria v. Lume Collective
+SECTION: HOLDING
+Layered consent must explicitly match the depth of cognitive access. Surface-level consent does not authorize core-layer memory extraction.
+
+---
+================================================================================
+
+CHUNK 25
+METADATA:
+  source_file: Zephyria_v_Lume_Collective.txt
+  document_title: Zephyria v. Lume Collective
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Zephyria_v_Lume_Collective.txt
+  case_title: Zephyria v. Lume Collective
+  court: Supreme Court of Zephyria
+  cycle: 3024
+  section: REASONING
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Zephyria v. Lume Collective
+SECTION: REASONING
+The Court held that Article 3.1 of the Telepathic Data Protection Act requires consent at the appropriate cognitive layer.
+
+The Court further interpreted Article 4.1 of the Act, stating that deep memory extraction requires explicit authorization or a Tri-Mind Warrant.
+
+The Collective’s reliance on generalized or inferred consent was insufficient.
+
+The Court emphasized that layered consent is not hierarchical permission but distinct authorization levels.
+
+---
+================================================================================
+
+CHUNK 26
+METADATA:
+  source_file: Zephyria_v_Lume_Collective.txt
+  document_title: Zephyria v. Lume Collective
+  document_type: case_law
+  folder: cases
+  file_path: data/cases/Zephyria_v_Lume_Collective.txt
+  case_title: Zephyria v. Lume Collective
+  court: Supreme Court of Zephyria
+  cycle: 3024
+  section: PRECEDENTIAL EFFECT
+  article: 
+  heading: 
+
+TEXT:
+DOCUMENT_TITLE: Zephyria v. Lume Collective
+SECTION: PRECEDENTIAL EFFECT
+This decision establishes that consent must be explicitly tied to the depth of cognitive access and cannot be inferred across layers.
+
+---
+================================================================================
+
+CHUNK 27
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 1.1
+  heading: Sovereignty
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 1.1
+HEADING: Sovereignty
+Article 1.1: Sovereignty
+Zephyria is a sovereign interstellar nation governed by the rule of law.
+================================================================================
+
+CHUNK 28
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 1.2
+  heading: Supremacy of Constitution
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 1.2
+HEADING: Supremacy of Constitution
+Article 1.2: Supremacy of Constitution
+This Constitution is the highest legal authority. All laws and regulations must comply with it.
+================================================================================
+
+CHUNK 29
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 1.3
+  heading: Rule of Law
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 1.3
+HEADING: Rule of Law
+Article 1.3: Rule of Law
+All entities, including individuals, organizations, and governing bodies, are subject to the law.
+
+---
+
+SECTION 2: RIGHTS AND LIBERTIES
+================================================================================
+
+CHUNK 30
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 2.1
+  heading: Right to Existence
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 2.1
+HEADING: Right to Existence
+Article 2.1: Right to Existence
+All sentient beings within Zephyria have the right to exist without unlawful termination or harm.
+================================================================================
+
+CHUNK 31
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 2.2
+  heading: Cognitive and Telepathic Privacy
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 2.2
+HEADING: Cognitive and Telepathic Privacy
+Article 2.2: Cognitive and Telepathic Privacy
+No entity may access, alter, or transmit another being’s thoughts without explicit consent or lawful authorization.
+================================================================================
+
+CHUNK 32
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 2.3
+  heading: Equality Before Law
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 2.3
+HEADING: Equality Before Law
+Article 2.3: Equality Before Law
+All beings are equal before the law regardless of species, origin planet, or biological composition.
+================================================================================
+
+CHUNK 33
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 2.4
+  heading: Freedom of Movement
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 2.4
+HEADING: Freedom of Movement
+Article 2.4: Freedom of Movement
+All lawful residents may travel freely within Zephyrian-controlled space.
+================================================================================
+
+CHUNK 34
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 2.5
+  heading: Right to Due Process
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 2.5
+HEADING: Right to Due Process
+Article 2.5: Right to Due Process
+No entity shall be deprived of rights without fair legal procedures.
+
+---
+
+SECTION 3: GOVERNMENT STRUCTURE
+================================================================================
+
+CHUNK 35
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 3.1
+  heading: Branches of Government
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 3.1
+HEADING: Branches of Government
+Article 3.1: Branches of Government
+The government consists of three branches: Legislative, Executive, and Judicial.
+================================================================================
+
+CHUNK 36
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 3.2
+  heading: Separation of Powers
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 3.2
+HEADING: Separation of Powers
+Article 3.2: Separation of Powers
+Each branch operates independently and may not exercise the core functions of another branch.
+
+---
+
+SECTION 4: LEGISLATIVE BRANCH
+================================================================================
+
+CHUNK 37
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 4.1
+  heading: Assembly of Zephyria
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 4.1
+HEADING: Assembly of Zephyria
+Article 4.1: Assembly of Zephyria
+Legislative power is vested in the Assembly of Zephyria.
+================================================================================
+
+CHUNK 38
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 4.2
+  heading: Lawmaking Authority
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 4.2
+HEADING: Lawmaking Authority
+Article 4.2: Lawmaking Authority
+The Assembly enacts statutes, approves amendments, and oversees regulatory bodies.
+================================================================================
+
+CHUNK 39
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 4.3
+  heading: Passage of Laws
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 4.3
+HEADING: Passage of Laws
+Article 4.3: Passage of Laws
+A law requires majority approval and formal ratification.
+
+---
+
+SECTION 5: EXECUTIVE BRANCH
+================================================================================
+
+CHUNK 40
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 5.1
+  heading: High Executor
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 5.1
+HEADING: High Executor
+Article 5.1: High Executor
+The Executive authority is led by the High Executor.
+================================================================================
+
+CHUNK 41
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 5.2
+  heading: Enforcement of Laws
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 5.2
+HEADING: Enforcement of Laws
+Article 5.2: Enforcement of Laws
+The Executive ensures laws and regulations are implemented and enforced.
+================================================================================
+
+CHUNK 42
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 5.3
+  heading: Regulatory Oversight
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 5.3
+HEADING: Regulatory Oversight
+Article 5.3: Regulatory Oversight
+The Executive supervises ministries and agencies.
+
+---
+
+SECTION 6: JUDICIAL BRANCH
+================================================================================
+
+CHUNK 43
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 6.1
+  heading: Supreme Court of Zephyria
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 6.1
+HEADING: Supreme Court of Zephyria
+Article 6.1: Supreme Court of Zephyria
+Judicial authority is vested in the Supreme Court and subordinate courts.
+================================================================================
+
+CHUNK 44
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 6.2
+  heading: Judicial Review
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 6.2
+HEADING: Judicial Review
+Article 6.2: Judicial Review
+Courts may invalidate laws or actions that conflict with this Constitution.
+================================================================================
+
+CHUNK 45
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 6.3
+  heading: Interpretation of Law
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 6.3
+HEADING: Interpretation of Law
+Article 6.3: Interpretation of Law
+The Judiciary has final authority in interpreting laws.
+
+---
+
+SECTION 7: INTERSTELLAR JURISDICTION
+================================================================================
+
+CHUNK 46
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 7.1
+  heading: Territorial Scope
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 7.1
+HEADING: Territorial Scope
+Article 7.1: Territorial Scope
+Zephyria’s laws apply within its planetary systems and designated interstellar zones.
+================================================================================
+
+CHUNK 47
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 7.2
+  heading: Non-Native Entities
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 7.2
+HEADING: Non-Native Entities
+Article 7.2: Non-Native Entities
+Non-native species are subject to Zephyrian law while within its jurisdiction.
+
+---
+
+SECTION 8: AMENDMENTS
+================================================================================
+
+CHUNK 48
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 8.1
+  heading: Amendment Process
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 8.1
+HEADING: Amendment Process
+Article 8.1: Amendment Process
+This Constitution may be amended by a two-thirds majority of the Assembly.
+================================================================================
+
+CHUNK 49
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 8.2
+  heading: Limitations
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 8.2
+HEADING: Limitations
+Article 8.2: Limitations
+No amendment may remove fundamental rights under Section 2.
+
+---
+
+SECTION 9: EMERGENCY POWERS
+================================================================================
+
+CHUNK 50
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 9.1
+  heading: Declaration of Emergency
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 9.1
+HEADING: Declaration of Emergency
+Article 9.1: Declaration of Emergency
+The Executive may declare a state of emergency under extreme circumstances.
+================================================================================
+
+CHUNK 51
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 9.2
+  heading: Temporary Measures
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 9.2
+HEADING: Temporary Measures
+Article 9.2: Temporary Measures
+Emergency powers must be limited in scope and duration.
+================================================================================
+
+CHUNK 52
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 9.3
+  heading: Judicial Oversight
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 9.3
+HEADING: Judicial Oversight
+Article 9.3: Judicial Oversight
+All emergency actions are subject to judicial review.
+
+---
+
+SECTION 10: DEFINITIONS
+================================================================================
+
+CHUNK 53
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 10.1
+  heading: Sentient Being
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 10.1
+HEADING: Sentient Being
+Article 10.1: Sentient Being
+An entity capable of independent thought, reasoning, and decision-making.
+================================================================================
+
+CHUNK 54
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 10.2
+  heading: Telepathic Access
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 10.2
+HEADING: Telepathic Access
+Article 10.2: Telepathic Access
+The act of reading, influencing, or transmitting cognitive processes.
+================================================================================
+
+CHUNK 55
+METADATA:
+  source_file: constitution.txt
+  document_title: Constitution of Zephyria
+  document_type: constitution
+  folder: constitution
+  file_path: data/constitution/constitution.txt
+  section: 
+  article: Article 10.3
+  heading: Lawful Authorization
+  version: 1.0
+  enacted: Cycle 3021
+  authority: Founding Council of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Constitution of Zephyria
+ARTICLE: Article 10.3
+HEADING: Lawful Authorization
+Article 10.3: Lawful Authorization
+Permission granted under statutes or judicial order.
+
+---
+================================================================================
+
+CHUNK 56
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: BACKGROUND
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: BACKGROUND
+This memorandum analyzes whether a cognitive investigation involving partial layered consent and degraded memory echoes can support enforcement action under Zephyrian law.
+
+The inquiry arises from a scenario in which a coordinating entity obtained surface-layer consent from multiple participants and subsequently conducted deeper resonance mapping without obtaining additional authorization.
+
+The investigation also relied on residual memory echoes that exhibited moderate degradation and potential temporal distortion.
+
+---
+================================================================================
+
+CHUNK 57
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: QUESTIONS PRESENTED
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: QUESTIONS PRESENTED
+1. Whether surface-layer consent permits access to deeper cognitive layers.
+2. Whether degraded memory echoes may be used as reliable evidence.
+3. What level of authorization is required for deep memory extraction.
+
+---
+================================================================================
+
+CHUNK 58
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: SHORT ANSWER
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: SHORT ANSWER
+Surface-layer consent does not authorize deeper cognitive access.
+
+Degraded memory echoes are insufficient as primary evidence unless verified for reliability.
+
+Deep memory extraction requires either explicit core-layer consent or a valid Tri-Mind Warrant.
+
+---
+================================================================================
+
+CHUNK 59
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: ANALYSIS
+  article: Subsection A
+  heading: Layered Consent Requirements
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: ANALYSIS
+ARTICLE: Subsection A
+HEADING: Layered Consent Requirements
+Subsection A: Layered Consent Requirements
+
+The Telepathic Data Protection Act (Version 2.0), Article 3.1, requires that consent correspond to the depth of cognitive access.
+
+In Zephyria v. Lume Collective (Cycle 3024), the Supreme Court clarified that layered consent operates as distinct authorization levels rather than a generalized permission structure.
+
+Accordingly, consent limited to surface signals cannot justify access to core-layer memories.
+
+Additionally, the Cognitive Signal Handling Regulations, Article 3.1, reinforce that consent must match signal classification levels.
+================================================================================
+
+CHUNK 60
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: ANALYSIS
+  article: Subsection B
+  heading: Deep Memory Extraction
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: ANALYSIS
+ARTICLE: Subsection B
+HEADING: Deep Memory Extraction
+Subsection B: Deep Memory Extraction
+
+Article 4.1 of the Telepathic Data Protection Act prohibits deep memory extraction absent a Tri-Mind Warrant.
+
+The absence of such authorization renders any extracted core-layer data unlawfully obtained.
+
+Even where investigative urgency exists, the statutory framework does not permit substitution of partial consent for formal authorization.
+================================================================================
+
+CHUNK 61
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: ANALYSIS
+  article: Subsection C
+  heading: Use of Memory Echoes
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: ANALYSIS
+ARTICLE: Subsection C
+HEADING: Use of Memory Echoes
+Subsection C: Use of Memory Echoes
+
+Article 8.1 of the Telepathic Data Protection Act restricts the use of retroactive memory echoes unless verified for temporal distortion.
+
+In In re Xel’thar Incident Review (Cycle 3025), the Supreme Court held that degraded memory echoes lacking verification cannot serve as primary evidence.
+
+Further, the Cognitive Signal Handling Regulations, Article 4.2, require that residual echoes be assigned a degradation index.
+
+Where such indexing is absent or indicates unreliability, evidentiary use is significantly limited.
+================================================================================
+
+CHUNK 62
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: ANALYSIS
+  article: Subsection D
+  heading: Risk Considerations
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: ANALYSIS
+ARTICLE: Subsection D
+HEADING: Risk Considerations
+Subsection D: Risk Considerations
+
+Reliance on improperly obtained cognitive data may result in:
+(a) exclusion of evidence;
+(b) enforcement invalidation;
+(c) sanctions by the Cognitive Integrity Council.
+
+---
+================================================================================
+
+CHUNK 63
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: CONCLUSION
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: CONCLUSION
+The legal framework governing cognitive investigations in Zephyria imposes strict alignment between consent and depth of access.
+
+Surface-level consent is insufficient to justify deeper cognitive intrusion.
+
+Additionally, degraded memory echoes cannot be relied upon without verification of integrity.
+
+Any enforcement action based on such evidence is likely to face significant legal challenge and potential invalidation.
+
+---
+================================================================================
+
+CHUNK 64
+METADATA:
+  source_file: Layered_Consent_&_Evidence_Use.txt
+  document_title: Internal Legal Memorandum
+  document_type: legal_memo
+  folder: memos
+  file_path: data/memos/Layered_Consent_&_Evidence_Use.txt
+  section: RECOMMENDATIONS
+  article: 
+  heading: 
+  date: Cycle 3025
+  author: Analyst Unit K-72
+
+TEXT:
+DOCUMENT_TITLE: Internal Legal Memorandum
+SECTION: RECOMMENDATIONS
+1. Obtain explicit layered consent corresponding to intended depth of access.
+2. Secure a Tri-Mind Warrant for any core-layer memory extraction.
+3. Verify all memory echoes for degradation and temporal distortion prior to use.
+4. Maintain full compliance logs to support evidentiary integrity.
+
+---
+================================================================================
+
+CHUNK 65
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 1.1
+  heading: Authority
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 1.1
+HEADING: Authority
+Article 1.1: Authority
+These Regulations are issued pursuant to the Telepathic Data Protection Act, Version 2.0.
+================================================================================
+
+CHUNK 66
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 1.2
+  heading: Purpose
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 1.2
+HEADING: Purpose
+Article 1.2: Purpose
+These Regulations establish operational standards for the handling, storage, and interpretation of cognitive signals.
+
+---
+
+SECTION 2: SIGNAL CLASSIFICATION
+================================================================================
+
+CHUNK 67
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 2.1
+  heading: Signal Categories
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 2.1
+HEADING: Signal Categories
+Article 2.1: Signal Categories
+Cognitive signals shall be classified into the following categories:
+(a) Surface Signals;
+(b) Reflective Signals;
+(c) Core Signals;
+(d) Residual Echoes.
+================================================================================
+
+CHUNK 68
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 2.2
+  heading: Classification Requirement
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 2.2
+HEADING: Classification Requirement
+Article 2.2: Classification Requirement
+All collected signals must be classified prior to processing.
+================================================================================
+
+CHUNK 69
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 2.3
+  heading: Misclassification
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 2.3
+HEADING: Misclassification
+Article 2.3: Misclassification
+Improper classification resulting in unauthorized access shall be treated as a violation of Article 3.1 of the Telepathic Data Protection Act.
+
+---
+
+SECTION 3: CONSENT VERIFICATION PROTOCOLS
+================================================================================
+
+CHUNK 70
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 3.1
+  heading: Layer Matching
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 3.1
+HEADING: Layer Matching
+Article 3.1: Layer Matching
+Consent must correspond to the classification level of the signal accessed.
+================================================================================
+
+CHUNK 71
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 3.2
+  heading: Consent Stability
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 3.2
+HEADING: Consent Stability
+Article 3.2: Consent Stability
+Consent must be verified for temporal stability and must not degrade during processing.
+================================================================================
+
+CHUNK 72
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 3.3
+  heading: Fragmented Consent
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 3.3
+HEADING: Fragmented Consent
+Article 3.3: Fragmented Consent
+Partial or fragmented consent is insufficient for accessing composite cognitive signals.
+
+---
+
+SECTION 4: SIGNAL STORAGE
+================================================================================
+
+CHUNK 73
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 4.1
+  heading: Storage Integrity
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 4.1
+HEADING: Storage Integrity
+Article 4.1: Storage Integrity
+Cognitive signals must be stored in their original structure without compression that alters meaning.
+================================================================================
+
+CHUNK 74
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 4.2
+  heading: Echo Degradation
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 4.2
+HEADING: Echo Degradation
+Article 4.2: Echo Degradation
+Residual echoes must be labeled with a degradation index indicating reliability.
+================================================================================
+
+CHUNK 75
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 4.3
+  heading: Storage Duration
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 4.3
+HEADING: Storage Duration
+Article 4.3: Storage Duration
+Core signals may not be stored beyond 3 standard cycles without renewed authorization.
+
+---
+
+SECTION 5: ACCESS LOGGING
+================================================================================
+
+CHUNK 76
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 5.1
+  heading: Immutable Logs
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 5.1
+HEADING: Immutable Logs
+Article 5.1: Immutable Logs
+All access events must be recorded in an immutable log system.
+================================================================================
+
+CHUNK 77
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 5.2
+  heading: Required Fields
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 5.2
+HEADING: Required Fields
+Article 5.2: Required Fields
+Logs must include:
+(a) identity of accessing entity;
+(b) signal classification;
+(c) consent layer;
+(d) timestamp.
+================================================================================
+
+CHUNK 78
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 5.3
+  heading: Audit Requests
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 5.3
+HEADING: Audit Requests
+Article 5.3: Audit Requests
+Logs must be accessible to individuals exercising their right to cognitive audit under Article 5.2 of the Telepathic Data Protection Act.
+
+---
+
+SECTION 6: PROHIBITED PRACTICES
+================================================================================
+
+CHUNK 79
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 6.1
+  heading: Signal Reconstruction
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 6.1
+HEADING: Signal Reconstruction
+Article 6.1: Signal Reconstruction
+Reconstruction of incomplete cognitive signals into assumed full memories is prohibited.
+================================================================================
+
+CHUNK 80
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 6.2
+  heading: Cross-Signal Blending
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 6.2
+HEADING: Cross-Signal Blending
+Article 6.2: Cross-Signal Blending
+Combining signals from multiple individuals without explicit layered consent is prohibited.
+================================================================================
+
+CHUNK 81
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 6.3
+  heading: Silent Analysis
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 6.3
+HEADING: Silent Analysis
+Article 6.3: Silent Analysis
+Analyzing cognitive signals without recording access in logs is prohibited.
+
+---
+
+SECTION 7: ENFORCEMENT
+================================================================================
+
+CHUNK 82
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 7.1
+  heading: Monitoring
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 7.1
+HEADING: Monitoring
+Article 7.1: Monitoring
+The Cognitive Integrity Council shall conduct periodic audits.
+================================================================================
+
+CHUNK 83
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 7.2
+  heading: Violations
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 7.2
+HEADING: Violations
+Article 7.2: Violations
+Violations may trigger suspension of cognitive processing privileges.
+
+---
+
+SECTION 8: FINAL PROVISIONS
+================================================================================
+
+CHUNK 84
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 8.1
+  heading: Interpretation
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 8.1
+HEADING: Interpretation
+Article 8.1: Interpretation
+These Regulations shall be interpreted consistently with the Telepathic Data Protection Act.
+================================================================================
+
+CHUNK 85
+METADATA:
+  source_file: Cognitive_Signal_Handling_Regulations.txt
+  document_title: Cognitive Signal Handling Regulations
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cognitive_Signal_Handling_Regulations.txt
+  section: 
+  article: Article 8.2
+  heading: Effective Cycle
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Cognitive Integrity Council
+
+TEXT:
+DOCUMENT_TITLE: Cognitive Signal Handling Regulations
+ARTICLE: Article 8.2
+HEADING: Effective Cycle
+Article 8.2: Effective Cycle
+These Regulations take effect immediately.
+
+---
+================================================================================
+
+CHUNK 86
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 1.1
+  heading: Authority
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 1.1
+HEADING: Authority
+Article 1.1: Authority
+These Guidelines are issued pursuant to the Interstellar Labor and Cooperative Activity Act, Version 2.0.
+================================================================================
+
+CHUNK 87
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 1.2
+  heading: Purpose
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 1.2
+HEADING: Purpose
+Article 1.2: Purpose
+These Guidelines define compliance expectations for cooperative labor structures and contributor protections.
+
+---
+
+SECTION 2: CONTRIBUTION TRACKING
+================================================================================
+
+CHUNK 88
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 2.1
+  heading: Contribution Records
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 2.1
+HEADING: Contribution Records
+Article 2.1: Contribution Records
+All cooperative activity must maintain records of contributions.
+================================================================================
+
+CHUNK 89
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 2.2
+  heading: Cognitive Contribution
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 2.2
+HEADING: Cognitive Contribution
+Article 2.2: Cognitive Contribution
+Cognitive labor must be recorded in a manner that reflects intensity and duration.
+================================================================================
+
+CHUNK 90
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 2.3
+  heading: Attribution Disputes
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 2.3
+HEADING: Attribution Disputes
+Article 2.3: Attribution Disputes
+Disputes regarding contribution must rely on recorded data unless overridden by mutual agreement.
+
+---
+
+SECTION 3: CONSENSUS SYSTEMS
+================================================================================
+
+CHUNK 91
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 3.1
+  heading: Declared Consensus Model
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 3.1
+HEADING: Declared Consensus Model
+Article 3.1: Declared Consensus Model
+Each cooperative group must declare its consensus threshold.
+================================================================================
+
+CHUNK 92
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 3.2
+  heading: Dynamic Adjustment
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 3.2
+HEADING: Dynamic Adjustment
+Article 3.2: Dynamic Adjustment
+Consensus thresholds may change if all active contributors agree.
+================================================================================
+
+CHUNK 93
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 3.3
+  heading: Silent Contributors
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 3.3
+HEADING: Silent Contributors
+Article 3.3: Silent Contributors
+Entities that do not actively participate in decision-making shall not be assumed to consent.
+
+---
+
+SECTION 4: EXIT PROTOCOLS
+================================================================================
+
+CHUNK 94
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 4.1
+  heading: Exit Notice
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 4.1
+HEADING: Exit Notice
+Article 4.1: Exit Notice
+Contributors must provide notice unless immediate exit is justified by harm or instability.
+================================================================================
+
+CHUNK 95
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 4.2
+  heading: Transitional Obligations
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 4.2
+HEADING: Transitional Obligations
+Article 4.2: Transitional Obligations
+Exiting contributors must transfer essential knowledge required for continuity.
+================================================================================
+
+CHUNK 96
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 4.3
+  heading: Forced Retention
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 4.3
+HEADING: Forced Retention
+Article 4.3: Forced Retention
+No entity may be prevented from exiting a cooperative structure.
+
+---
+
+SECTION 5: VALUE DISTRIBUTION
+================================================================================
+
+CHUNK 97
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 5.1
+  heading: Distribution Models
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 5.1
+HEADING: Distribution Models
+Article 5.1: Distribution Models
+Cooperatives must define how shared output is distributed.
+================================================================================
+
+CHUNK 98
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 5.2
+  heading: Cognitive Weighting
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 5.2
+HEADING: Cognitive Weighting
+Article 5.2: Cognitive Weighting
+Cognitive labor must not be undervalued relative to physical labor.
+================================================================================
+
+CHUNK 99
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 5.3
+  heading: Delayed Distribution
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 5.3
+HEADING: Delayed Distribution
+Article 5.3: Delayed Distribution
+Delayed compensation must be justified and documented.
+
+---
+
+SECTION 6: DISPUTE HANDLING
+================================================================================
+
+CHUNK 100
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 6.1
+  heading: Harmonic Mediation Requirement
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 6.1
+HEADING: Harmonic Mediation Requirement
+Article 6.1: Harmonic Mediation Requirement
+All disputes must first undergo Harmonic Mediation.
+================================================================================
+
+CHUNK 101
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 6.2
+  heading: Escalation Criteria
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 6.2
+HEADING: Escalation Criteria
+Article 6.2: Escalation Criteria
+Escalation is permitted only after mediation fails or is deemed ineffective.
+================================================================================
+
+CHUNK 102
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 6.3
+  heading: Evidence Standards
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 6.3
+HEADING: Evidence Standards
+Article 6.3: Evidence Standards
+Evidence derived from cognitive signals must comply with the Telepathic Data Protection Act and related regulations.
+
+---
+
+SECTION 7: OVERSIGHT
+================================================================================
+
+CHUNK 103
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 7.1
+  heading: Compliance Reviews
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 7.1
+HEADING: Compliance Reviews
+Article 7.1: Compliance Reviews
+The Ministry of Collective Activity may conduct periodic compliance reviews.
+================================================================================
+
+CHUNK 104
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 7.2
+  heading: Adaptive Interpretation
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 7.2
+HEADING: Adaptive Interpretation
+Article 7.2: Adaptive Interpretation
+These Guidelines may be updated to reflect evolving cooperative practices.
+
+---
+
+SECTION 8: FINAL PROVISIONS
+================================================================================
+
+CHUNK 105
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 8.1
+  heading: Non-Binding Nature
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 8.1
+HEADING: Non-Binding Nature
+Article 8.1: Non-Binding Nature
+These Guidelines are binding unless explicitly designated as advisory in specific provisions.
+================================================================================
+
+CHUNK 106
+METADATA:
+  source_file: Cooperative_Activity_Compliance_Guidelines.txt
+  document_title: Cooperative Activity Compliance Guidelines
+  document_type: regulation
+  folder: regulations
+  file_path: data/regulations/Cooperative_Activity_Compliance_Guidelines.txt
+  section: 
+  article: Article 8.2
+  heading: Effective Cycle
+  version: 1.0
+  enacted: Cycle 3023
+  authority: Ministry of Collective Activity
+
+TEXT:
+DOCUMENT_TITLE: Cooperative Activity Compliance Guidelines
+ARTICLE: Article 8.2
+HEADING: Effective Cycle
+Article 8.2: Effective Cycle
+These Guidelines take effect upon issuance.
+
+---
+================================================================================
+
+CHUNK 107
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 1.1
+  heading: Purpose
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 1.1
+HEADING: Purpose
+Article 1.1: Purpose
+This Act governs all forms of labor, including physical, cognitive, and distributed cooperative activity.
+================================================================================
+
+CHUNK 108
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 1.2
+  heading: Non-Hierarchical Principle
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 1.2
+HEADING: Non-Hierarchical Principle
+Article 1.2: Non-Hierarchical Principle
+Work relationships shall not require fixed hierarchical structures and may operate through consensus networks.
+================================================================================
+
+CHUNK 109
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 1.3
+  heading: Constitutional Basis
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 1.3
+HEADING: Constitutional Basis
+Article 1.3: Constitutional Basis
+This Act implements equality and due process protections under Articles 2.3 and 2.5 of the Constitution.
+
+---
+
+SECTION 2: DEFINITIONS
+================================================================================
+
+CHUNK 110
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 2.1
+  heading: Contributor
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 2.1
+HEADING: Contributor
+Article 2.1: Contributor
+Any sentient being or distributed intelligence participating in productive activity.
+================================================================================
+
+CHUNK 111
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 2.2
+  heading: Coordinating Entity
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 2.2
+HEADING: Coordinating Entity
+Article 2.2: Coordinating Entity
+An entity responsible for organizing or facilitating contributions.
+================================================================================
+
+CHUNK 112
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 2.3
+  heading: Shared Output
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 2.3
+HEADING: Shared Output
+Article 2.3: Shared Output
+The result of collaborative labor, regardless of form or medium.
+================================================================================
+
+CHUNK 113
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 2.4
+  heading: Cognitive Labor
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 2.4
+HEADING: Cognitive Labor
+Article 2.4: Cognitive Labor
+Work performed through thought, analysis, or telepathic interaction.
+
+---
+
+SECTION 3: RIGHTS OF CONTRIBUTORS
+================================================================================
+
+CHUNK 114
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 3.1
+  heading: Right to Fair Value Exchange
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 3.1
+HEADING: Right to Fair Value Exchange
+Article 3.1: Right to Fair Value Exchange
+All contributors are entitled to compensation proportional to their contribution, including cognitive labor.
+================================================================================
+
+CHUNK 115
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 3.2
+  heading: Right to Exit
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 3.2
+HEADING: Right to Exit
+Article 3.2: Right to Exit
+Contributors may withdraw from cooperative activity without penalty, subject to agreed transition conditions.
+================================================================================
+
+CHUNK 116
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 3.3
+  heading: Right to Identity Integrity
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 3.3
+HEADING: Right to Identity Integrity
+Article 3.3: Right to Identity Integrity
+No contributor may be required to alter their cognitive or biological structure as a condition of participation.
+
+---
+
+SECTION 4: COOPERATIVE STRUCTURES
+================================================================================
+
+CHUNK 117
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 4.1
+  heading: Fluid Agreements
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 4.1
+HEADING: Fluid Agreements
+Article 4.1: Fluid Agreements
+Work arrangements may evolve dynamically without fixed contracts, provided changes are consensual and recorded.
+================================================================================
+
+CHUNK 118
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 4.2
+  heading: Consensus Thresholds
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 4.2
+HEADING: Consensus Thresholds
+Article 4.2: Consensus Thresholds
+Groups may establish thresholds for decision-making, including majority, supermajority, or full consensus.
+================================================================================
+
+CHUNK 119
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 4.3
+  heading: Distributed Presence
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 4.3
+HEADING: Distributed Presence
+Article 4.3: Distributed Presence
+Entities operating across multiple bodies or nodes shall be treated as a single contributor unless otherwise specified.
+
+---
+
+SECTION 5: DISPUTES
+================================================================================
+
+CHUNK 120
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 5.1
+  heading: Harmonic Mediation
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 5.1
+HEADING: Harmonic Mediation
+Article 5.1: Harmonic Mediation
+Disputes shall first be addressed through Harmonic Mediation, a non-adversarial resolution process.
+================================================================================
+
+CHUNK 121
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 5.2
+  heading: Escalation
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 5.2
+HEADING: Escalation
+Article 5.2: Escalation
+Unresolved disputes may be brought before the Labor Tribunal.
+================================================================================
+
+CHUNK 122
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 5.3
+  heading: Cognitive Evidence
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 5.3
+HEADING: Cognitive Evidence
+Article 5.3: Cognitive Evidence
+Cognitive signals may be used as evidence only in accordance with the Telepathic Data Protection Act.
+
+---
+
+SECTION 6: TERMINATION AND DISSOLUTION
+================================================================================
+
+CHUNK 123
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 6.1
+  heading: Dissolution of Cooperation
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 6.1
+HEADING: Dissolution of Cooperation
+Article 6.1: Dissolution of Cooperation
+Cooperative arrangements may dissolve upon consensus or material breakdown of function.
+================================================================================
+
+CHUNK 124
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 6.2
+  heading: Residual Value Distribution
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 6.2
+HEADING: Residual Value Distribution
+Article 6.2: Residual Value Distribution
+Remaining value must be distributed fairly among contributors.
+================================================================================
+
+CHUNK 125
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 6.3
+  heading: Memory of Contribution
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 6.3
+HEADING: Memory of Contribution
+Article 6.3: Memory of Contribution
+Records of contribution must be preserved to ensure future claims.
+
+---
+
+SECTION 7: OVERSIGHT
+================================================================================
+
+CHUNK 126
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 7.1
+  heading: Ministry of Collective Activity
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 7.1
+HEADING: Ministry of Collective Activity
+Article 7.1: Ministry of Collective Activity
+This Act is overseen by the Ministry of Collective Activity.
+================================================================================
+
+CHUNK 127
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 7.2
+  heading: Adaptive Guidelines
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 7.2
+HEADING: Adaptive Guidelines
+Article 7.2: Adaptive Guidelines
+The Ministry may issue non-binding guidance reflecting evolving labor structures.
+
+---
+
+SECTION 8: FINAL PROVISIONS
+================================================================================
+
+CHUNK 128
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 8.1
+  heading: Relationship to Other Laws
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 8.1
+HEADING: Relationship to Other Laws
+Article 8.1: Relationship to Other Laws
+This Act shall be interpreted consistently with the Constitution and applicable statutes.
+================================================================================
+
+CHUNK 129
+METADATA:
+  source_file: Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  document_title: Interstellar Labor and Cooperative Activity Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Interstellar_Labor_&_Cooperative_Activity_Act.txt
+  section: 
+  article: Article 8.2
+  heading: Effective Cycle
+  version: 1.0
+  enacted: Cycle 3020
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Interstellar Labor and Cooperative Activity Act
+ARTICLE: Article 8.2
+HEADING: Effective Cycle
+Article 8.2: Effective Cycle
+This Act takes effect upon enactment.
+
+---
+================================================================================
+
+CHUNK 130
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 1.1
+  heading: Purpose
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 1.1
+HEADING: Purpose
+Article 1.1: Purpose
+This Act governs the lawful interaction with cognitive signals, including extraction, resonance mapping, and memory echo reconstruction.
+================================================================================
+
+CHUNK 131
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 1.2
+  heading: Scope
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 1.2
+HEADING: Scope
+Article 1.2: Scope
+This Act applies to all entities operating within Zephyrian jurisdiction, including distributed consciousness entities and multi-body intelligences.
+================================================================================
+
+CHUNK 132
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 1.3
+  heading: Constitutional Basis
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 1.3
+HEADING: Constitutional Basis
+Article 1.3: Constitutional Basis
+This Act implements the protections established under Article 2.2 of the Constitution of Zephyria.
+
+---
+
+SECTION 2: DEFINITIONS
+================================================================================
+
+CHUNK 133
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 2.1
+  heading: Cognitive Signal
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 2.1
+HEADING: Cognitive Signal
+Article 2.1: Cognitive Signal
+Any measurable or perceivable output of a sentient mind, including thoughts, impressions, and residual memory echoes.
+================================================================================
+
+CHUNK 134
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 2.2
+  heading: Memory Echo
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 2.2
+HEADING: Memory Echo
+Article 2.2: Memory Echo
+A residual cognitive imprint that persists after a thought has occurred, including involuntary projections.
+================================================================================
+
+CHUNK 135
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 2.3
+  heading: Resonance Mapping
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 2.3
+HEADING: Resonance Mapping
+Article 2.3: Resonance Mapping
+The process of aligning one cognitive field with another to interpret or extract meaning.
+================================================================================
+
+CHUNK 136
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 2.4
+  heading: Layered Consent
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 2.4
+HEADING: Layered Consent
+Article 2.4: Layered Consent
+Consent granted at multiple cognitive depths, including surface, reflective, and core layers.
+
+---
+
+SECTION 3: LAWFUL ACCESS
+================================================================================
+
+CHUNK 137
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 3.1
+  heading: Requirement of Layered Consent
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 3.1
+HEADING: Requirement of Layered Consent
+Article 3.1: Requirement of Layered Consent
+Access to cognitive signals requires consent at the appropriate cognitive layer relevant to the depth of access.
+================================================================================
+
+CHUNK 138
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 3.2
+  heading: Invalid Consent
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 3.2
+HEADING: Invalid Consent
+Article 3.2: Invalid Consent
+Consent is invalid if obtained during:
+(a) cognitive instability;
+(b) externally induced emotional override;
+(c) temporal desynchronization.
+================================================================================
+
+CHUNK 139
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 3.3
+  heading: Passive Reception
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 3.3
+HEADING: Passive Reception
+Article 3.3: Passive Reception
+Unintentional reception of stray cognitive signals is not unlawful, provided no recording or analysis occurs.
+
+---
+
+SECTION 4: RESTRICTED PRACTICES
+================================================================================
+
+CHUNK 140
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 4.1
+  heading: Deep Memory Extraction
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 4.1
+HEADING: Deep Memory Extraction
+Article 4.1: Deep Memory Extraction
+Extraction of core-layer memories is prohibited unless authorized by a Tri-Mind Warrant.
+================================================================================
+
+CHUNK 141
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 4.2
+  heading: Collective Interrogation
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 4.2
+HEADING: Collective Interrogation
+Article 4.2: Collective Interrogation
+Simultaneous resonance mapping of multiple individuals is prohibited except in declared interstellar emergencies.
+================================================================================
+
+CHUNK 142
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 4.3
+  heading: Predictive Cognition Profiling
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 4.3
+HEADING: Predictive Cognition Profiling
+Article 4.3: Predictive Cognition Profiling
+The use of cognitive data to predict future behavior is restricted and requires explicit judicial authorization.
+
+---
+
+SECTION 5: RIGHTS OF SENTIENT BEINGS
+================================================================================
+
+CHUNK 143
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 5.1
+  heading: Right to Cognitive Silence
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 5.1
+HEADING: Right to Cognitive Silence
+Article 5.1: Right to Cognitive Silence
+Individuals may shield their thoughts from all external access without justification.
+================================================================================
+
+CHUNK 144
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 5.2
+  heading: Right to Cognitive Audit
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 5.2
+HEADING: Right to Cognitive Audit
+Article 5.2: Right to Cognitive Audit
+Individuals may request a record of all entities that have accessed their cognitive signals.
+================================================================================
+
+CHUNK 145
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 5.3
+  heading: Right to Memory Correction
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 5.3
+HEADING: Right to Memory Correction
+Article 5.3: Right to Memory Correction
+Individuals may request correction or deletion of stored memory echoes where distortion is demonstrated.
+
+---
+
+SECTION 6: OBLIGATIONS OF OPERATORS
+================================================================================
+
+CHUNK 146
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 6.1
+  heading: Signal Integrity
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 6.1
+HEADING: Signal Integrity
+Article 6.1: Signal Integrity
+Entities handling cognitive data must preserve the original structure of the signal.
+================================================================================
+
+CHUNK 147
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 6.2
+  heading: Distortion Liability
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 6.2
+HEADING: Distortion Liability
+Article 6.2: Distortion Liability
+Any alteration of cognitive signals that results in harm creates strict liability.
+================================================================================
+
+CHUNK 148
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 6.3
+  heading: Transparency Logs
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 6.3
+HEADING: Transparency Logs
+Article 6.3: Transparency Logs
+All cognitive interactions must be recorded in an immutable log accessible to oversight bodies.
+
+---
+
+SECTION 7: OVERSIGHT AND ENFORCEMENT
+================================================================================
+
+CHUNK 149
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 7.1
+  heading: Cognitive Integrity Council
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 7.1
+HEADING: Cognitive Integrity Council
+Article 7.1: Cognitive Integrity Council
+This Act is enforced by the Cognitive Integrity Council.
+================================================================================
+
+CHUNK 150
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 7.2
+  heading: Tri-Mind Warrants
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 7.2
+HEADING: Tri-Mind Warrants
+Article 7.2: Tri-Mind Warrants
+Authorization for intrusive access requires approval from three independent judicial minds.
+================================================================================
+
+CHUNK 151
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 7.3
+  heading: Penalties
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 7.3
+HEADING: Penalties
+Article 7.3: Penalties
+Violations may result in cognitive access bans, operational dissolution, or identity suspension.
+
+---
+
+SECTION 8: TEMPORAL PROVISIONS
+================================================================================
+
+CHUNK 152
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 8.1
+  heading: Retroactive Memory Use
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 8.1
+HEADING: Retroactive Memory Use
+Article 8.1: Retroactive Memory Use
+Recovered memory echoes from past cycles may not be used as evidence unless verified for temporal distortion.
+================================================================================
+
+CHUNK 153
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 8.2
+  heading: Future-State Projections
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 8.2
+HEADING: Future-State Projections
+Article 8.2: Future-State Projections
+Predicted cognitive states may not be treated as factual evidence.
+
+---
+
+SECTION 9: FINAL PROVISIONS
+================================================================================
+
+CHUNK 154
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 9.1
+  heading: Relationship to Other Laws
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 9.1
+HEADING: Relationship to Other Laws
+Article 9.1: Relationship to Other Laws
+This Act prevails in matters involving cognitive signals.
+================================================================================
+
+CHUNK 155
+METADATA:
+  source_file: Telepathic_Data_Protection_Act.txt
+  document_title: Telepathic Data Protection Act
+  document_type: statute
+  folder: statutes
+  file_path: data/statutes/Telepathic_Data_Protection_Act.txt
+  section: 
+  article: Article 9.2
+  heading: Effective Cycle
+  version: 1.0
+  enacted: Cycle 3022
+  authority: The Harmonic Assembly of Zephyria
+
+TEXT:
+DOCUMENT_TITLE: Telepathic Data Protection Act
+ARTICLE: Article 9.2
+HEADING: Effective Cycle
+Article 9.2: Effective Cycle
+This Act takes effect immediately upon enactment.
+
+---
+================================================================================
+
