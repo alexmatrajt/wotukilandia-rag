@@ -105,6 +105,16 @@ if "last_result" not in st.session_state:
     st.session_state.last_result = None
 
 
+RETRIEVAL_SCOPE_OPTIONS = {
+    "Auto": "auto",
+    "All documents": "all_documents",
+    "Legal authorities": "legal_authorities",
+    "Case materials": "case_materials",
+    "Evidence only": "evidence_only",
+    "Case law only": "case_law_only",
+}
+
+
 def list_data_files():
     files = []
     for file_path in sorted(DATA_DIR.rglob("*.txt")):
@@ -261,10 +271,7 @@ def render_document_explorer() -> None:
         filtered_files = [f for f in filtered_files if f["folder"] == selected_folder]
 
     with col2:
-        labels = [
-            f"{f['relative_path']}"
-            for f in filtered_files
-        ]
+        labels = [f"{f['relative_path']}" for f in filtered_files]
         selected_label = st.selectbox("Open a document", labels)
 
     selected_file = next(f for f in filtered_files if f["relative_path"] == selected_label)
@@ -301,6 +308,20 @@ with st.sidebar:
     st.write(f"**Mode:** {PROVIDER}")
     st.write("**Jurisdiction:** Wotukilandia")
     st.write("**Current active case:** Orin Tal v. Synaptech Dynamics")
+
+    st.divider()
+
+    st.header("Retrieval scope")
+    selected_scope_label = st.selectbox(
+        "Choose which document set to search",
+        list(RETRIEVAL_SCOPE_OPTIONS.keys()),
+        index=0,
+    )
+    selected_scope = RETRIEVAL_SCOPE_OPTIONS[selected_scope_label]
+
+    st.caption(
+        "Use this to limit what the assistant searches. For example, choose Evidence only for factual questions, or Legal authorities for pure law questions."
+    )
 
     st.divider()
 
@@ -345,7 +366,7 @@ with tab_research:
 
         with st.chat_message("assistant"):
             with st.spinner("Reviewing the Wotukilandian record..."):
-                result = ask_question(question, PROVIDER)
+                result = ask_question(question, PROVIDER, retrieval_scope=selected_scope)
 
             answer = result["answer"]
             st.markdown("## Response")
@@ -362,6 +383,9 @@ with tab_research:
                         <div class="section-title">Retrieved sources</div>
                         <div style="font-size:2rem; font-weight:700; color:#10233d;">{len(result["sources"])}</div>
                         <div class="small-muted">Supporting documents</div>
+                        <div class="small-muted" style="margin-top:0.5rem;">
+                            <strong>Scope:</strong> {selected_scope_label}
+                        </div>
                     </div>
                     """,
                     unsafe_allow_html=True,

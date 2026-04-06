@@ -2,6 +2,12 @@ from typing import Any, Dict, List
 
 import chromadb
 from llama_index.core import StorageContext, VectorStoreIndex
+from llama_index.core.query_engine import RetrieverQueryEngine
+from llama_index.core.vector_stores import (
+    MetadataFilter,
+    MetadataFilters,
+    FilterCondition,
+)
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.ollama import OllamaEmbedding
 from llama_index.embeddings.openai import OpenAIEmbedding
@@ -55,10 +61,16 @@ Preferred style:
 """
 
 
+RETRIEVAL_SCOPE_TO_DOCUMENT_TYPES = {
+    "all_documents": None,
+    "legal_authorities": ["constitution", "code", "statute", "regulation", "case_law"],
+    "case_materials": ["case_file", "evidence", "legal_memo"],
+    "evidence_only": ["evidence"],
+    "case_law_only": ["case_law"],
+}
+
+
 def get_embedding_model(provider: str | None = None):
-    """
-    Return the embedding model object for the selected provider.
-    """
     selected_provider = provider or PROVIDER
     model_name = get_embed_model(selected_provider)
 
@@ -72,9 +84,6 @@ def get_embedding_model(provider: str | None = None):
 
 
 def get_llm(provider: str | None = None):
-    """
-    Return the LLM object for the selected provider.
-    """
     selected_provider = provider or PROVIDER
     model_name = get_llm_model(selected_provider)
 
@@ -95,9 +104,6 @@ def get_llm(provider: str | None = None):
 
 
 def load_index(provider: str | None = None) -> VectorStoreIndex:
-    """
-    Load the persisted Chroma-backed index for the selected provider.
-    """
     selected_provider = provider or PROVIDER
     chroma_dir = get_chroma_dir(selected_provider)
 
@@ -117,23 +123,125 @@ def load_index(provider: str | None = None) -> VectorStoreIndex:
     return index
 
 
-def get_query_engine(provider: str | None = None):
+def infer_auto_scope(question: str) -> str:
     """
-    Create a query engine for the selected provider.
+    Lightweight rule-based router for retrieval scope.
+    """
+    q = question.lower()
+
+    evidence_keywords = [
+        "evidence",
+        "log",
+        "logs",
+        "transcript",
+        "report",
+        "scan",
+        "what happened",
+        "show proof",
+        "proof",
+        "did synaptech",
+        "did the client",
+        "memory echo",
+        "consent record",
+    ]
+
+    law_keywords = [
+        "law",
+        "statute",
+        "regulation",
+        "constitution",
+        "case law",
+        "precedent",
+        "legal standard",
+        "required",
+        "allowed",
+        "prohibited",
+        "violate",
+        "violation",
+    ]
+
+    strategy_keywords = [
+        "argument",
+        "arguments",
+        "defense",
+        "claim",
+        "claims",
+        "risk",
+        "outcome",
+        "likely",
+        "support the client",
+        "support the defendant",
+        "strongest",
+        "weakness",
+        "strength",
+    ]
+
+    if any(k in q for k in strategy_keywords):
+        return "all_documents"
+
+    if any(k in q for k in evidence_keywords) and not any(k in q for k in law_keywords):
+        return "case_materials"
+
+    if any(k in q for k in law_keywords) and not any(k in q for k in evidence_keywords):
+        return "legal_authorities"
+
+    return "all_documents"
+
+
+def build_metadata_filters(retrieval_scope: str, question: str) -> MetadataFilters | None:
+    """
+    Convert retrieval scope into LlamaIndex metadata filters.
+    """
+    selected_scope = retrieval_scope
+    if selected_scope == "auto":
+        selected_scope = infer_auto_scope(question)
+
+    allowed_document_types = RETRIEVAL_SCOPE_TO_DOCUMENT_TYPES.get(selected_scope)
+
+    if not allowed_document_types:
+        return None
+
+    return MetadataFilters(
+        filters=[
+            MetadataFilter(key="document_type", value=doc_type)
+            for doc_type in allowed_document_types
+        ],
+        condition=FilterCondition.OR,
+    )
+
+
+def get_query_engine(
+    provider: str | None = None,
+    question: str | None = None,
+    retrieval_scope: str = "all_documents",
+):
+    """
+    Create a query engine for the selected provider and retrieval scope.
     """
     selected_provider = provider or PROVIDER
     index = load_index(selected_provider)
     llm = get_llm(selected_provider)
 
-    query_engine = index.as_query_engine(
-        llm=llm,
+    filters = build_metadata_filters(retrieval_scope, question or "")
+
+    retriever = index.as_retriever(
         similarity_top_k=TOP_K,
+        filters=filters,
+    )
+
+    query_engine = RetrieverQueryEngine.from_args(
+        retriever=retriever,
+        llm=llm,
         response_mode="compact",
     )
     return query_engine
 
 
-def ask_question(question: str, provider: str | None = None) -> Dict[str, Any]:
+def ask_question(
+    question: str,
+    provider: str | None = None,
+    retrieval_scope: str = "all_documents",
+) -> Dict[str, Any]:
     """
     Ask a question against the selected provider's index and return:
     - answer text
@@ -141,7 +249,15 @@ def ask_question(question: str, provider: str | None = None) -> Dict[str, Any]:
     - retrieved chunk text
     """
     selected_provider = provider or PROVIDER
-    query_engine = get_query_engine(selected_provider)
+    effective_scope = retrieval_scope
+    if retrieval_scope == "auto":
+        effective_scope = infer_auto_scope(question)
+
+    query_engine = get_query_engine(
+        provider=selected_provider,
+        question=question,
+        retrieval_scope=retrieval_scope,
+    )
     response = query_engine.query(question)
 
     sources: List[Dict[str, Any]] = []
@@ -158,6 +274,8 @@ def ask_question(question: str, provider: str | None = None) -> Dict[str, Any]:
     return {
         "question": question,
         "provider": selected_provider,
+        "retrieval_scope": retrieval_scope,
+        "effective_scope": effective_scope,
         "answer": str(response),
         "sources": sources,
     }
@@ -175,11 +293,17 @@ if __name__ == "__main__":
         if not question:
             continue
 
-        result = ask_question(question, PROVIDER)
-        print(result)
+        scope = input(
+            "Scope (auto/all_documents/legal_authorities/case_materials/evidence_only/case_law_only): "
+        ).strip() or "auto"
+
+        result = ask_question(question, PROVIDER, retrieval_scope=scope)
 
         print("\nANSWER:")
         print(result["answer"])
+
+        print(f"\nRequested scope: {result['retrieval_scope']}")
+        print(f"Effective scope: {result['effective_scope']}")
 
         print("\nSOURCES:")
         for i, source in enumerate(result["sources"], start=1):
