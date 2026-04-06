@@ -1,14 +1,14 @@
-TITLE: Constitution of Zephyria
+TITLE: Constitution of Wotukilandia
 VERSION: 1.0
 ENACTED: Cycle 3021
-AUTHORITY: Founding Council of Zephyria
+AUTHORITY: Founding Council of Wotukilandia
 
 ---
 
 SECTION 1: FUNDAMENTAL PRINCIPLES
 
 Article 1.1: Sovereignty
-Zephyria is a sovereign interstellar nation governed by the rule of law.
+Wotukilandia is a sovereign interstellar nation governed by the rule of law.
 
 Article 1.2: Supremacy of Constitution
 This Constitution is the highest legal authority. All laws and regulations must comply with it.
@@ -21,7 +21,7 @@ All entities, including individuals, organizations, and governing bodies, are su
 SECTION 2: RIGHTS AND LIBERTIES
 
 Article 2.1: Right to Existence
-All sentient beings within Zephyria have the right to exist without unlawful termination or harm.
+All sentient beings within Wotukilandia have the right to exist without unlawful termination or harm.
 
 Article 2.2: Cognitive and Telepathic Privacy
 No entity may access, alter, or transmit another being’s thoughts without explicit consent or lawful authorization.
@@ -30,7 +30,7 @@ Article 2.3: Equality Before Law
 All beings are equal before the law regardless of species, origin planet, or biological composition.
 
 Article 2.4: Freedom of Movement
-All lawful residents may travel freely within Zephyrian-controlled space.
+All lawful residents may travel freely within Wotukilandian-controlled space.
 
 Article 2.5: Right to Due Process
 No entity shall be deprived of rights without fair legal procedures.
@@ -49,8 +49,8 @@ Each branch operates independently and may not exercise the core functions of an
 
 SECTION 4: LEGISLATIVE BRANCH
 
-Article 4.1: Assembly of Zephyria
-Legislative power is vested in the Assembly of Zephyria.
+Article 4.1: Assembly of Wotukilandia
+Legislative power is vested in the Assembly of Wotukilandia.
 
 Article 4.2: Lawmaking Authority
 The Assembly enacts statutes, approves amendments, and oversees regulatory bodies.
@@ -75,7 +75,7 @@ The Executive supervises ministries and agencies.
 
 SECTION 6: JUDICIAL BRANCH
 
-Article 6.1: Supreme Court of Zephyria
+Article 6.1: Supreme Court of Wotukilandia
 Judicial authority is vested in the Supreme Court and subordinate courts.
 
 Article 6.2: Judicial Review
@@ -89,10 +89,10 @@ The Judiciary has final authority in interpreting laws.
 SECTION 7: INTERSTELLAR JURISDICTION
 
 Article 7.1: Territorial Scope
-Zephyria’s laws apply within its planetary systems and designated interstellar zones.
+Wotukilandia’s laws apply within its planetary systems and designated interstellar zones.
 
 Article 7.2: Non-Native Entities
-Non-native species are subject to Zephyrian law while within its jurisdiction.
+Non-native species are subject to Wotukilandian law while within its jurisdiction.
 
 ---
 

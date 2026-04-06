@@ -1,5 +1,5 @@
 CASE_TITLE: In re Xel’thar Incident Review
-COURT: Supreme Court of Zephyria
+COURT: Supreme Court of Wotukilandia
 CYCLE: 3025
 DOCUMENT_TYPE: case_law
 
@@ -29,9 +29,9 @@ Degraded or temporally distorted memory echoes cannot be relied upon as primary 
 
 SECTION: REASONING
 
-The Court cited Article 8.1 of the Telepathic Data Protection Act, which restricts the use of retroactive memory echoes unless verified for distortion.
+The Court cited Article 8.1 of the Telepathic Data Protection Act of Wotukilandia, which restricts the use of retroactive memory echoes unless verified for distortion.
 
-It also referenced Article 4.2 of the Cognitive Signal Handling Regulations, requiring degradation indexing.
+It also referenced Article 4.2 of the Cognitive Signal Handling Regulations of Wotukilandia, requiring degradation indexing.
 
 The Court found that the absence of reliability verification rendered the evidence insufficient.
 
@@ -41,6 +41,6 @@ The decision emphasized that cognitive evidence must meet higher integrity stand
 
 SECTION: PRECEDENTIAL EFFECT
 
-This decision limits the use of memory echoes and requires verification mechanisms before admissibility.
+This decision limits the use of memory echoes and requires verification mechanisms before admissibility in Wotukilandia.
 
 ---

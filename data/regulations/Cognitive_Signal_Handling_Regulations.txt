@@ -2,17 +2,17 @@ TITLE: Cognitive Signal Handling Regulations
 DOCUMENT_TYPE: regulation
 VERSION: 1.0
 ENACTED: Cycle 3023
-ISSUING_BODY: Cognitive Integrity Council
+ISSUING_BODY: Cognitive Integrity Council of Wotukilandia
 
 ---
 
 SECTION 1: AUTHORITY AND PURPOSE
 
 Article 1.1: Authority
-These Regulations are issued pursuant to the Telepathic Data Protection Act, Version 2.0.
+These Regulations are issued pursuant to the Telepathic Data Protection Act of Wotukilandia, Version 2.0.
 
 Article 1.2: Purpose
-These Regulations establish operational standards for the handling, storage, and interpretation of cognitive signals.
+These Regulations establish operational standards for the handling, storage, and interpretation of cognitive signals within Wotukilandia.
 
 ---
 
@@ -29,7 +29,7 @@ Article 2.2: Classification Requirement
 All collected signals must be classified prior to processing.
 
 Article 2.3: Misclassification
-Improper classification resulting in unauthorized access shall be treated as a violation of Article 3.1 of the Telepathic Data Protection Act.
+Improper classification resulting in unauthorized access shall be treated as a violation of Article 3.1 of the Telepathic Data Protection Act of Wotukilandia.
 
 ---
 
@@ -72,7 +72,7 @@ Logs must include:
 (d) timestamp.
 
 Article 5.3: Audit Requests
-Logs must be accessible to individuals exercising their right to cognitive audit under Article 5.2 of the Telepathic Data Protection Act.
+Logs must be accessible to individuals exercising their right to cognitive audit under Article 5.2 of the Telepathic Data Protection Act of Wotukilandia.
 
 ---
 
@@ -92,7 +92,7 @@ Analyzing cognitive signals without recording access in logs is prohibited.
 SECTION 7: ENFORCEMENT
 
 Article 7.1: Monitoring
-The Cognitive Integrity Council shall conduct periodic audits.
+The Cognitive Integrity Council of Wotukilandia shall conduct periodic audits.
 
 Article 7.2: Violations
 Violations may trigger suspension of cognitive processing privileges.
@@ -102,7 +102,7 @@ Violations may trigger suspension of cognitive processing privileges.
 SECTION 8: FINAL PROVISIONS
 
 Article 8.1: Interpretation
-These Regulations shall be interpreted consistently with the Telepathic Data Protection Act.
+These Regulations shall be interpreted consistently with the Telepathic Data Protection Act of Wotukilandia.
 
 Article 8.2: Effective Cycle
 These Regulations take effect immediately.

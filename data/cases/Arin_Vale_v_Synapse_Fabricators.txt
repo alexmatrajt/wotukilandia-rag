@@ -1,5 +1,5 @@
 CASE_TITLE: Arin Vale v. Synapse Fabricators
-COURT: Zephyrian Labor Tribunal (Appellate Division)
+COURT: Wotukilandian Labor Tribunal (Appellate Division)
 CYCLE: 3023
 DOCUMENT_TYPE: case_law
 
@@ -29,9 +29,9 @@ Cognitive labor must be valued equitably and cannot be systematically undervalue
 
 SECTION: REASONING
 
-The Tribunal relied on Article 5.2 of the Cooperative Activity Compliance Guidelines, which prohibits undervaluation of cognitive labor.
+The Tribunal relied on Article 5.2 of the Cooperative Activity Compliance Guidelines of Wotukilandia, which prohibits undervaluation of cognitive labor.
 
-It further referenced Article 3.1 of the Interstellar Labor and Cooperative Activity Act, requiring fair value exchange.
+It further referenced Article 3.1 of the Interstellar Labor and Cooperative Activity Act of Wotukilandia, requiring fair value exchange.
 
 The Tribunal rejected the argument that physical outputs inherently justify higher valuation.
 
@@ -41,6 +41,6 @@ The decision emphasized that contribution impact, not form, determines value.
 
 SECTION: PRECEDENTIAL EFFECT
 
-This decision requires cooperatives to justify valuation models and ensures cognitive labor is treated on equal footing with physical labor.
+This decision requires cooperatives to justify valuation models and ensures cognitive labor is treated on equal footing with physical labor in Wotukilandia.
 
 ---

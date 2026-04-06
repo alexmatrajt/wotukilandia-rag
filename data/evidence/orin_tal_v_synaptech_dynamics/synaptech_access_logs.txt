@@ -1,0 +1,38 @@
+DOCUMENT_TITLE: Synaptech Cognitive Access Logs
+DOCUMENT_TYPE: evidence
+CASE: Orin Tal v. Synaptech Dynamics
+EVIDENCE_TYPE: access_log
+
+---
+
+SECTION: LOG ENTRIES
+
+Timestamp: 3025.04.12-09:14
+Access Level: Surface Signals
+Status: Authorized
+
+Timestamp: 3025.04.12-09:16
+Access Level: Reflective Signals
+Status: Authorized
+
+Timestamp: 3025.04.12-09:19
+Access Level: Core Signals
+Status: Authorization Unspecified
+
+Timestamp: 3025.04.12-09:20
+Access Level: Core Signals
+Status: Log Incomplete
+
+---
+
+SECTION: IRREGULARITIES
+
+- Missing consent layer mapping for core access
+- Timestamp gaps between 09:19 and 09:23
+- No Tri-Mind Warrant reference
+
+---
+
+SECTION: NOTES
+
+Log integrity flagged as “partial” by internal system audit.

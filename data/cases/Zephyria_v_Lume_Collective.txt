@@ -1,5 +1,5 @@
-CASE_TITLE: Zephyria v. Lume Collective
-COURT: Supreme Court of Zephyria
+CASE_TITLE: Wotukilandia v. Lume Collective
+COURT: Supreme Court of Wotukilandia
 CYCLE: 3024
 DOCUMENT_TYPE: case_law
 
@@ -17,7 +17,7 @@ Several individuals later claimed that their consent was limited to surface-leve
 
 SECTION: ISSUE
 
-Whether layered consent permitting surface-level access can justify extraction of core-layer memories under the Telepathic Data Protection Act.
+Whether layered consent permitting surface-level access can justify extraction of core-layer memories under the Telepathic Data Protection Act of Wotukilandia.
 
 ---
 
@@ -29,7 +29,7 @@ Layered consent must explicitly match the depth of cognitive access. Surface-lev
 
 SECTION: REASONING
 
-The Court held that Article 3.1 of the Telepathic Data Protection Act requires consent at the appropriate cognitive layer.
+The Court held that Article 3.1 of the Telepathic Data Protection Act of Wotukilandia requires consent at the appropriate cognitive layer.
 
 The Court further interpreted Article 4.1 of the Act, stating that deep memory extraction requires explicit authorization or a Tri-Mind Warrant.
 
@@ -41,6 +41,6 @@ The Court emphasized that layered consent is not hierarchical permission but dis
 
 SECTION: PRECEDENTIAL EFFECT
 
-This decision establishes that consent must be explicitly tied to the depth of cognitive access and cannot be inferred across layers.
+This decision establishes that consent must be explicitly tied to the depth of cognitive access and cannot be inferred across layers in Wotukilandia.
 
 ---

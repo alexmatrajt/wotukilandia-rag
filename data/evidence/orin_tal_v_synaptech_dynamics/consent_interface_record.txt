@@ -1,0 +1,34 @@
+DOCUMENT_TITLE: Consent Interface Record
+DOCUMENT_TYPE: evidence
+CASE: Orin Tal v. Synaptech Dynamics
+EVIDENCE_TYPE: consent_record
+
+---
+
+SECTION: RECORD
+
+User: Orin Tal
+Session Type: Cognitive Calibration
+Authorization Level: Standard Calibration Access
+
+User Consent Statement:
+“I authorize Synaptech Dynamics to perform calibration-level access necessary for system optimization.”
+
+---
+
+SECTION: SYSTEM INTERPRETATION
+
+Authorization Scope:
+- Surface-level signal access
+- Reflective signal sampling
+
+No explicit authorization for:
+- Core-layer memory extraction
+- Deep resonance mapping
+
+---
+
+SECTION: NOTES
+
+No layered consent breakdown presented to user.
+No explicit consent for core-layer access recorded.

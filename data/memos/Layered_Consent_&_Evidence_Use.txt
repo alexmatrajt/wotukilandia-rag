@@ -8,7 +8,7 @@ SUBJECT: Use of Layered Consent and Memory Echo Evidence in Cognitive Investigat
 
 SECTION: BACKGROUND
 
-This memorandum analyzes whether a cognitive investigation involving partial layered consent and degraded memory echoes can support enforcement action under Zephyrian law.
+This memorandum analyzes whether a cognitive investigation involving partial layered consent and degraded memory echoes can support enforcement action under Wotukilandian law.
 
 The inquiry arises from a scenario in which a coordinating entity obtained surface-layer consent from multiple participants and subsequently conducted deeper resonance mapping without obtaining additional authorization.
 
@@ -38,17 +38,17 @@ SECTION: ANALYSIS
 
 Subsection A: Layered Consent Requirements
 
-The Telepathic Data Protection Act (Version 2.0), Article 3.1, requires that consent correspond to the depth of cognitive access.
+The Telepathic Data Protection Act of Wotukilandia (Version 2.0), Article 3.1, requires that consent correspond to the depth of cognitive access.
 
-In Zephyria v. Lume Collective (Cycle 3024), the Supreme Court clarified that layered consent operates as distinct authorization levels rather than a generalized permission structure.
+In Wotukilandia v. Lume Collective (Cycle 3024), the Supreme Court of Wotukilandia clarified that layered consent operates as distinct authorization levels rather than a generalized permission structure.
 
 Accordingly, consent limited to surface signals cannot justify access to core-layer memories.
 
-Additionally, the Cognitive Signal Handling Regulations, Article 3.1, reinforce that consent must match signal classification levels.
+Additionally, the Cognitive Signal Handling Regulations of Wotukilandia, Article 3.1, reinforce that consent must match signal classification levels.
 
 Subsection B: Deep Memory Extraction
 
-Article 4.1 of the Telepathic Data Protection Act prohibits deep memory extraction absent a Tri-Mind Warrant.
+Article 4.1 of the Telepathic Data Protection Act of Wotukilandia prohibits deep memory extraction absent a Tri-Mind Warrant.
 
 The absence of such authorization renders any extracted core-layer data unlawfully obtained.
 
@@ -56,11 +56,11 @@ Even where investigative urgency exists, the statutory framework does not permit
 
 Subsection C: Use of Memory Echoes
 
-Article 8.1 of the Telepathic Data Protection Act restricts the use of retroactive memory echoes unless verified for temporal distortion.
+Article 8.1 of the Telepathic Data Protection Act of Wotukilandia restricts the use of retroactive memory echoes unless verified for temporal distortion.
 
-In In re Xel’thar Incident Review (Cycle 3025), the Supreme Court held that degraded memory echoes lacking verification cannot serve as primary evidence.
+In In re Xel’thar Incident Review (Cycle 3025), the Supreme Court of Wotukilandia held that degraded memory echoes lacking verification cannot serve as primary evidence.
 
-Further, the Cognitive Signal Handling Regulations, Article 4.2, require that residual echoes be assigned a degradation index.
+Further, the Cognitive Signal Handling Regulations of Wotukilandia, Article 4.2, require that residual echoes be assigned a degradation index.
 
 Where such indexing is absent or indicates unreliability, evidentiary use is significantly limited.
 
@@ -69,13 +69,13 @@ Subsection D: Risk Considerations
 Reliance on improperly obtained cognitive data may result in:
 (a) exclusion of evidence;
 (b) enforcement invalidation;
-(c) sanctions by the Cognitive Integrity Council.
+(c) sanctions by the Cognitive Integrity Council of Wotukilandia.
 
 ---
 
 SECTION: CONCLUSION
 
-The legal framework governing cognitive investigations in Zephyria imposes strict alignment between consent and depth of access.
+The legal framework governing cognitive investigations in Wotukilandia imposes strict alignment between consent and depth of access.
 
 Surface-level consent is insufficient to justify deeper cognitive intrusion.
 
