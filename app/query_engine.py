@@ -4,13 +4,23 @@ import chromadb
 from llama_index.core import StorageContext, VectorStoreIndex
 from llama_index.vector_stores.chroma import ChromaVectorStore
 from llama_index.embeddings.ollama import OllamaEmbedding
+from llama_index.embeddings.openai import OpenAIEmbedding
 from llama_index.llms.ollama import Ollama
+from llama_index.llms.openai import OpenAI
 
-from app.config import CHROMA_DIR, COLLECTION_NAME, EMBED_MODEL, LLM_MODEL, TOP_K
+from app.config import (
+    APP_NAME,
+    COLLECTION_NAME,
+    PROVIDER,
+    TOP_K,
+    get_chroma_dir,
+    get_embed_model,
+    get_llm_model,
+)
 
 
 SYSTEM_PROMPT = """
-You are a legal research assistant for the fictional country Zephyria.
+You are a legal research assistant for the fictional country Wotukilandia.
 
 Rules:
 1. Answer only from the provided retrieved context.
@@ -21,17 +31,59 @@ Rules:
 """
 
 
-def load_index() -> VectorStoreIndex:
+def get_embedding_model(provider: str | None = None):
     """
-    Load the persisted Chroma-backed index.
+    Return the embedding model object for the selected provider.
     """
-    chroma_client = chromadb.PersistentClient(path=str(CHROMA_DIR))
+    selected_provider = provider or PROVIDER
+    model_name = get_embed_model(selected_provider)
+
+    if selected_provider == "local":
+        return OllamaEmbedding(model_name=model_name)
+
+    if selected_provider == "openai":
+        return OpenAIEmbedding(model=model_name)
+
+    raise ValueError(f"Unsupported provider: {selected_provider}")
+
+
+def get_llm(provider: str | None = None):
+    """
+    Return the LLM object for the selected provider.
+    """
+    selected_provider = provider or PROVIDER
+    model_name = get_llm_model(selected_provider)
+
+    if selected_provider == "local":
+        return Ollama(
+            model=model_name,
+            request_timeout=120.0,
+            system_prompt=SYSTEM_PROMPT,
+        )
+
+    if selected_provider == "openai":
+        return OpenAI(
+            model=model_name,
+            system_prompt=SYSTEM_PROMPT,
+        )
+
+    raise ValueError(f"Unsupported provider: {selected_provider}")
+
+
+def load_index(provider: str | None = None) -> VectorStoreIndex:
+    """
+    Load the persisted Chroma-backed index for the selected provider.
+    """
+    selected_provider = provider or PROVIDER
+    chroma_dir = get_chroma_dir(selected_provider)
+
+    chroma_client = chromadb.PersistentClient(path=str(chroma_dir))
     chroma_collection = chroma_client.get_collection(COLLECTION_NAME)
 
     vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
     storage_context = StorageContext.from_defaults(vector_store=vector_store)
 
-    embed_model = OllamaEmbedding(model_name=EMBED_MODEL)
+    embed_model = get_embedding_model(selected_provider)
 
     index = VectorStoreIndex.from_vector_store(
         vector_store=vector_store,
@@ -41,17 +93,13 @@ def load_index() -> VectorStoreIndex:
     return index
 
 
-def get_query_engine():
+def get_query_engine(provider: str | None = None):
     """
-    Create a query engine with the local Ollama LLM.
+    Create a query engine for the selected provider.
     """
-    index = load_index()
-
-    llm = Ollama(
-        model=LLM_MODEL,
-        request_timeout=120.0,
-        system_prompt=SYSTEM_PROMPT,
-    )
+    selected_provider = provider or PROVIDER
+    index = load_index(selected_provider)
+    llm = get_llm(selected_provider)
 
     query_engine = index.as_query_engine(
         llm=llm,
@@ -61,14 +109,15 @@ def get_query_engine():
     return query_engine
 
 
-def ask_question(question: str) -> Dict[str, Any]:
+def ask_question(question: str, provider: str | None = None) -> Dict[str, Any]:
     """
-    Ask a question against the index and return:
+    Ask a question against the selected provider's index and return:
     - answer text
     - source metadata
     - retrieved chunk text
     """
-    query_engine = get_query_engine()
+    selected_provider = provider or PROVIDER
+    query_engine = get_query_engine(selected_provider)
     response = query_engine.query(question)
 
     sources: List[Dict[str, Any]] = []
@@ -84,13 +133,15 @@ def ask_question(question: str) -> Dict[str, Any]:
 
     return {
         "question": question,
+        "provider": selected_provider,
         "answer": str(response),
         "sources": sources,
     }
 
 
 if __name__ == "__main__":
-    print("Zephyria RAG test mode")
+    print(f"{APP_NAME} test mode")
+    print(f"Provider: {PROVIDER}")
     print("Type a question, or type 'exit' to quit.\n")
 
     while True:
@@ -100,7 +151,7 @@ if __name__ == "__main__":
         if not question:
             continue
 
-        result = ask_question(question)
+        result = ask_question(question, PROVIDER)
 
         print("\nANSWER:")
         print(result["answer"])

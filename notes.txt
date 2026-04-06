@@ -68,3 +68,16 @@ app/build_index.py
 scripts/ingest.py
 app/query_engine.py
 ui/streamlit_app.py
+
+-----
+Best immediate next step
+
+I would do this in order:
+
+update the current project text from Zephyria to Wotukilandia
+add 3 to 5 more documents
+refactor config to support local and openai modes
+make ingestion support both modes
+make querying support both modes
+test locally in both modes
+deploy Streamlit with OpenAI mode
